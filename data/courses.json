@@ -1,0 +1,1827 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Responsive Web Design",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "image/icon/responsive.png",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, you'll learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a quiz site.Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.",
+      "topic": [
+        {
+          "topic_title": "Learn HTML by Building a Cat Photo App",
+          "topic_details": ["HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.In this course, you'll learn the most common HTML tags by building your own cat photo app."]
+        },
+        {
+          "topic_title": "Learn Basic CSS by Building a Cafe Menu",
+          "topic_details": ["CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.In this course, you'll learn CSS by designing a menu page for a cafe webpage."]
+        },
+        {
+          "topic_title": "Learn CSS Colors by Building a Set of Colored Markers",
+          "topic_details": ["Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.In this course, you'll build a set of colored markers. You'll learn different ways to set color values and how to pair colors with each other."]
+        },
+        {
+          "topic_title": "Learn HTML Forms by Building a Registration Form",
+          "topic_details": ["You can use HTML forms to collect information from people who visit your webpage.In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page."]
+        },
+        {
+          "topic_title": "Survey Form",
+          "topic_details": ["This is one of the required projects to earn your certification.For this project, you will build a survey form to collect data from your users"]
+        },
+        {
+          "topic_title": "Learn the CSS Box Model by Building a Rothko Painting",
+          "topic_details": ["Every HTML element is its own box – with its own spacing and a border. This is called the Box Model.In this course, you'll use CSS and the Box Model to create your own Rothko-style rectangular art pieces."]
+        },
+        {
+          "topic_title": "Learn CSS Flexbox by Building a Photo Gallery",
+          "topic_details":[ "Flexbox helps you design your webpage so that it looks good on any screen size.In this course, you'll use Flexbox to build a responsive photo gallery webpage."]
+        },
+        {
+          "topic_title": "Learn Typography by Building a Nutrition Label",
+          "topic_details": ["Typography is the art of styling your text to be easily readable and suit its purpose.In this course, you'll use typography to build a nutrition label webpage. You'll learn how to style text, adjust line height, and position your text using CSS."]
+        },
+        {
+          "topic_title": "Learn Accessibility by Building a Quiz",
+          "topic_details": ["Accessibility is making your webpage easy for all people to use – even people with disabilities.In this course, you'll build a quiz webpage. You'll learn accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices."]
+        },
+        {
+          "topic_title": "Tribute Page",
+          "topic_details": ["Certification Project This is one of the required projects to earn your certification. For this project, you will build a tribute page for a subject of your choosing, fictional or real."]
+        },
+        {
+          "topic_title": "Learn More About CSS Pseudo Selectors by Building A Balance Sheet",
+          "topic_details": ["You can use CSS pseudo selectors to change specific HTML elements. In this course, you'll build a balance sheet using pseudo selectors. You'll learn how to change the style of an element when you hover over it with your mouse, and trigger other events on your webpage."]
+        },
+        {
+          "topic_title": "Learn Intermediate CSS by Building a Cat Painting",
+          "topic_details": ["Mastering CSS positioning is essential for creating visually appealing and responsive web layouts In this course, you will build a cat painting. You'll learn about how to work with absolute positioning, the z-index property, and the transform property."]
+        },
+        {
+          "topic_title": "Learn Responsive Web Design by Building a Piano",
+          "topic_details": ["Responsive Design tells your webpage how it should look on different-sized screens.In this course, you'll use CSS and Responsive Design to code a piano. You'll also learn more about media queries and pseudo selectors."]
+        },
+        {
+          "topic_title": "Technical Documentation Page",
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you will build a technical documentation page to serve as instruction or reference for a topic."]
+        },
+        {
+          "topic_title": "Learn CSS Variables by Building a City Skyline",
+          "topic_details": ["CSS variables help you organize your styles and reuse them.In this course, you'll build a city skyline. You'll learn how to configure CSS variables so you can reuse them whenever you want."]
+        },
+        {
+          "topic_title": "Learn CSS Grid by Building a Magazine",
+          "topic_details": ["CSS Grid gives you control over the rows and columns of your webpage design.In this course, you'll build a magazine article. You'll learn how to use CSS Grid, including concepts like grid rows and grid columns."]
+        },
+        {
+          "topic_title": "Product Landing Page",
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you will build a product landing page to market a product of your choice."]
+        },
+        {
+          "topic_title": "Learn CSS Animation by Building a Ferris Wheel",
+          "topic_details": ["You can use CSS animation to draw attention to specific sections of your webpage and make it more engaging.In this course, you'll build a Ferris wheel. You'll learn how to use CSS to animate elements, transform them, and adjust their speed."]
+        },
+        {
+          "topic_title": "Learn CSS Transforms by Building a Penguin",
+          "topic_details": ["You can transform HTML elements to create appealing designs that draw your reader's eye. You can use transforms to rotate elements, scale them, and more.In this course, you'll build a penguin. You'll use CSS transforms to position and resize the parts of your penguin, create a background, and animate your work."]
+        },
+        {
+          "topic_title": "Personal Portfolio Webpage",
+          "topic_details": ["HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.In this course, you'll learn the most common HTML tags by building your own cat photo app."]
+        }
+      ]
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "3",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Graphic Design Masterclass Intermediate: The NEXT Level",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "You will be able to create polished and practical Logo designs and brand assets. Be able to create images for a full digital marketing campaign, including Facebook and Instagram. Produce complex photo manipulations for the use of ad design and understand solid layout and design principles. Sketch logo design and concepts with ease and understand the golden ratio and how to incorporate that in your design process. Create and build a strong graphic design portfolio both in pdf and online. Understand some of the many ways of making money by selling creative content and resources. Understand how to use more intermediate tools in Adobe Illustrator and Photoshop. Study the Golden Ratio and create a graphic illustration with it. Go through the entire package design process for a chocolate bar wrapper. Create a typography only poster. Learn what makes compelling infographics and take boring data and make it come alive.Create a magazine front cover and article spread using InDesign and talk about more intermediate topics like using photos and headlines to help craft stories Work through the ENTIRE logo. Design process including how to present your work to clients, export files. Understand how to work with various print design projects Learn how to create mockups from photos you take! Learn The Basics of Adobe Dimensions to create stunning 3d Product Mockups! Learn Intermediate Design Theory Basics like Gestalt Theory to Elevate your Designs! Create a Poster using Movement and Depth In Design. Learn how much graphic designers make both salaried and freelance, and how to make more!",
+      "topic": [
+        {
+          "topic_title": "Introduction - Downloadable Resources & Course Guide!",
+          "topic_details": ["Course Preview", "DOWNLOADABLE FILES! The Course Guide"]
+        },
+        {
+          "topic_title": "NEW! Elevate Your Layouts with Gestalt Theory",
+          "topic_details": ["Section Introduction", "Gestalt Theory - Similarity, Proximity & Simplicity", "Gestalt Theory - Figure & Ground, Closure & Continuation", "Reviewing Strong Gestalt Examples", "Gestalt Theory in the Bookstore & Beyond", "Student Project"]
+        },
+        {
+          "topic_title": "Intermediate Photoshop Techniques",
+          "topic_details": ["Content Aware", "Content Aware and Perspective Warp", "More Challenging Object Removal Projects", "Building a Photo Composite", "Building a Photo Composite - Part 2"]
+        },
+        {
+          "topic_title": "Fast Food Full Page Ad Design Project",
+          "topic_details": ["Project Setup", "Layout and Blocking", "Adding Text Effects - Flames and Water", "Photo Editing for Food Photos", "Exporting both Digital and Print - RGB and CMYK Conversion"]
+        },
+        {
+          "topic_title": "Logo Design Section",
+          "topic_details": ["Characteristics of Solid Logo Designs"]
+        },
+        {
+          "topic_title": "The Full Logo Design Process and Worksheet - Video Flux Project",
+          "topic_details": ["The Client Brief and Getting Started", "The Brainstorming and Sketching Process", "Vectorizing Assets", "Manually Adjusting Type", "Details and Typography", "Picking Your Final Concept", "Grid Work", "Picking Our Colors", "Adding Details and Extras", "Exporting Our Files", "STUDENT CHALLENGE and Examples!"]
+        },
+        {
+          "topic_title": "The Logo Presentation Template",
+          "topic_details": ["Guide to the Logo Presentation Template"]
+        },
+        {
+          "topic_title": "Student Logo Design Challenge! The Golden Hop Brewery",
+          "topic_details": ["Local Brewery and Restaurant - Client Brief - The Golden Hop Brewery", "Student Project Review Video"]
+        },
+        {
+          "topic_title": "The Golden Ratio in Design",
+          "topic_details": ["What is the Golden Ratio?", "Golden Ratio Practice", "Golden Ratio Practice - Part 2"]
+        },
+        {
+          "topic_title": "Logo Design Student Project - Optional",
+          "topic_details": ["Option 1: Dog Love - Logo Design Challenge and Client Brief"]
+        },
+        {
+          "topic_title": "NEW! How Much Can Graphic Designers Make & How to Make More!",
+          "topic_details": ["How Much Can You Make Working A Salaried Position?", "How Much Can You Make Freelancing?", "Logo Design from $10 - $10,000 A long Journey", "How To Level Up to Make More Money"]
+        },
+        {
+          "topic_title": "NEW! Create A Dynamic Poster with Movement & Depth",
+          "topic_details": ["Section Preview", "Getting started", "Creating 3D shapes in illustrator", "Depth and Movement", "Adding Details", "Adding Typography", "Finishing Touches", "STUDENT PROJECT - POSTER DESIGN"]
+        },
+        {
+          "topic_title": "Create a Dynamic Instagram Post!",
+          "topic_details": ["Getting Started", "The Template Setup", "First Slide", "Second Slide", "Third Slide", "Go Bold", "Tell Stories", "Call to Action", "Uploading and Student Challenge"]
+        }
+      ]
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "JavaScript Algorithms and Data Structures (Beta)",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "image/icon/javaScript.png",
+      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+      "details": "Developers use HTML and CSS to control the content and styling of a page. And they use JavaScript to make that page interactive.In this JavaScript Algorithm and Data Structures Certification, you'll learn the JavaScript fundamentals like variables, arrays, objects, loops, functions, the DOM and more.You'll also learn about Object Oriented Programming (OOP), Functional Programming, algorithmic thinking, how to work with local storage, and how to fetch data using an API.",
+      "topic": [
+        {
+          "topic_title": "Learn Basic JavaScript by Building a Role Playing Game",
+          "topic_details": ["JavaScript is a powerful scripting language that you can use to make web pages interactive. It's one of the core technologies of the web, along with HTML and CSS. All modern browsers support JavaScript.In this practice project, you'll learn fundamental programming concepts in JavaScript by coding your own Role Playing Game. You'll learn how to work with arrays, strings, objects, functions, loops, if/else statements, and more."]
+        },
+        {
+          "topic_title": "Learn Form Validation by Building a Calorie Counter",
+          "topic_details": ["Sometimes when you're coding a web application, you'll need to be able to accept input from a user. In this calorie counter project, you'll learn how to validate user input, perform calculations based on that input, and dynamically update your interface to display the results.In this practice project, you'll learn basic regular expressions, template literals, the addEventListener() method, and more."]
+        },
+        {
+          "topic_title": "Learn Basic String and Array Methods by Building a Music Player",
+          "topic_details": ["Now let's learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications.In this project, you'll code a basic MP3 player using HTML, CSS, and JavaScript. The project covers fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities. You'll even learn how to dynamically update your user interface based on the current song."]
+        },
+        {
+          "topic_title": "Learn the Date Object by Building a Date Formatter",
+          "topic_details": ["Working with dates in JavaScript can be challenging. You have to navigate various methods, formats, and time zones. In this project, you'll learn how to work with the JavaScript Date object, including its methods and properties. You'll also learn how to correctly format dates.This project will cover concepts such as the getDate(), getMonth(), and getFullYear() methods."]
+        },
+        {
+          "topic_title": "Build a Palindrome Checker Project Certification Project",
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you'll build an application that checks whether a given word is a palindrome."]
+        },
+        {
+          "topic_title": "Learn Modern JavaScript Methods by Building Football Team Cards",
+          "topic_details": ["One common aspect of building web applications: processing datasets, and then outputting information to the screen. In this sports team cards project, you'll learn how to work with DOM manipulation, object destructuring, event handling, and data filtering.This project will cover concepts like switch statements, default parameters, Object.freeze(), the map() method, and more."]
+        },
+        {
+          "topic_title": "Learn localStorage by Building a Todo App",
+          "topic_details": ["Local storage is a web browser feature that lets web applications store key-value pairs persistently within a user's browser. This allows web apps to save data during one session, then retrieve it in a later page session.In this TODO application, you'll learn how to handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements."]
+        },
+        {
+          "topic_title": "Learn Recursion by Building a Decimal to Binary Converter",
+          "topic_details": ["Recursion is a programming concept where a function calls itself. This can reduce a complex problem into simpler sub-problems, until they become straightforward to solve.In this project, you’ll build a decimal-to-binary converter using JavaScript. You’ll learn the fundamental concepts of recursion, explore the call stack, and build out a visual representation of the recursion process through an animation."]
+        },
+        {
+          "topic_title": "Build a Roman Numeral Converter Project. Certification Project",
+          "topic_details": ["This is one of the required projects to claim your certification. For this project, you'll build an application that converts integers to Roman numerals."]
+        },
+        {
+          "topic_title": "Learn Basic Algorithmic Thinking by Building a Number Sorter",
+          "topic_details": ["In computer science, there are fundamental sorting algorithms that all developers should learn. In this number sorter project, you'll learn how to implement and visualize different sorting algorithms like bubble sort, selection sort, and insertion sort – all with JavaScript. This project will help you understand the fundamental concepts behind these algorithms, and how you can apply them to sort numerical data in web applications."]
+        },
+        {
+          "topic_title": "Learn Advanced Array Methods by Building a Statistics Calculator",
+          "topic_details": ["As you expand your JavaScript skills, you'll want to get comfortable with array manipulation methods, such as map(), reduce(), and filter(). In this statistics calculator project, you'll gain experience with handling user input, DOM manipulation, and method chaining. You'll get practice by performing statistical calculations like mean, median, mode, variance, and standard deviation."]
+        },
+        {
+          "topic_title": "Learn Functional Programming by Building a Spreadsheet",
+          "topic_details": ["Functional Programming is a popular approach to software development. In Functional Programming, developers organize code into smaller functions, then combine those functions to build complex programs. In this spreadsheet application project, you'll learn about parsing and evaluating mathematical expressions, implementing spreadsheet functions, handling cell references, and creating interactive web interfaces. You'll learn how to dynamically update the page based on user input. This project will cover concepts like the map() method, find() method, parseInt(), the includes() method."]
+        },
+        {
+          "topic_title": "Learn Regular Expressions by Building a Spam Filter",
+          "topic_details": ["Regular expressions, often shortened to {regex} or {regexp}, are patterns that help programmers match, search, and replace text. Regular expressions are powerful, but can be difficult to understand because they use so many special characters. In this spam filter project, you'll learn about capture groups, positive lookaheads, negative lookaheads, and other techniques to match any text you want."]
+        },
+        {
+          "topic_title": "Build a Telephone Number Validator Project. Certification Project",
+          "topic_details": ["This is one of the required projects to claim your certification. For this project, you'll build an application that checks if a number is a valid United States phone number."]
+        },
+        {
+          "topic_title": "Learn Basic OOP by Building a Shopping Cart",
+          "topic_details": ["OOP, or Object Oriented Programming, is one of the major approaches to the software development process. In OOP, developers use objects and classes to structure their code. In this shopping cart project, you'll learn how to define classes and use them. You'll create class instances and implement methods for data manipulation. This project will cover concepts like the ternary operator, the spread operator, the this keyword, and more."]
+        },
+        {
+          "topic_title": "Learn Intermediate OOP by Building a Platformer Game",
+          "topic_details": ["Coding a game is a great way to grasp fundamental programming principles, while also creating an interactive gaming experience. In this platformer game project, you'll continue to learn about classes, objects, inheritance, and encapsulation. You'll also learn how to design and organize game elements efficiently and gain insights into problem-solving and code reusability."]
+        },
+        {
+          "topic_title": "Learn Intermediate Algorithmic Thinking by Building a Dice Game",
+          "topic_details": ["Algorithmic thinking involves the ability to break down complex problems into a sequence of well-defined, step-by-step instructions. In this Dice game project, you’ll learn how to manage game state, implement game logic for rolling dice, keeping score, and applying rules for various combinations. This project covers concepts such as event handling, array manipulation, conditional logic, and updating the user interface dynamically based on game state."]
+        },
+        {
+          "topic_title": "Build a Cash Register Project. Certification Project",
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you'll build a cash register web app."]
+        },
+        {
+          "topic_title": "Learn Fetch and Promises by Building an fCC Authors Page",
+          "topic_details": ["One common aspect of web development is learning how to fetch data from an external API, then work with asynchronous JavaScript. This freeCodeCamp authors page project will show you how to use the fetch method, then dynamically update the DOM to display the fetched data. This project will also teach you how to paginate your data so you can load results in batches."]
+        },
+        {
+          "topic_title": "Learn Asynchronous Programming by Building an fCC Forum Leaderboard",
+          "topic_details": ["JavaScript is an asynchronous programming language. And this project will help you gain proficiency in asynchronous concepts. You'll code your own freeCodeCamp forum leaderboard. This project will cover the Fetch API, promises, Async/Await, and the try..catch statement."]
+        },
+        {
+          "topic_title": "Build a Pokémon Search App Project. Certification Project",
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you will build a Pokémon search app."]
+        }
+      ]
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "3",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Graphic Design Mastery- AI, Photoshop, Illustrator, Indesign",
+      "author": {
+        "name": "Khalil Ibrahim",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "",
+      "image_url": "",
+      "details": "Do you want to learn graphic design & advertising from scratch? well, I’ve tried to squeeze my academic studying in advertising in the faculty of applied arts & experience in the design field for more than 15 years in one single graphic design course that would help an absolute beginner or even an advanced graphic designer to become a professional graphic designer.This is a very Dynamic MasterClass as A whole New section is added to the course teaching how to use AI tools like Midjourney, Adobe Firefly, Chat GPT, and Google Bard in Graphic design to create intricate designs in a few minutes and to stay on top of your game as a designer so you can integrate your exceptional Human Intelligence with Artificial Intelligence to create mind-blowing visuals! So, Starting with graphic design theories including typography, color theory, graphic design compositions & layout theories to know the science behind achieving great designs. Plus bonus videos where I will be giving you tours in New York design museums like the Museum of Illusions in New York for example (Adobe Graphic Design Applications: Photoshop, Illustrator, Indesign, Creative Cloud, PDF). We will learn Photoshop while we are covering different design niches & categories in the course to make sure you can engage in any graphic design task as a professional graphic designer, so in photoshop we are covering real-world projects & advertising campaigns for big brands & how to do creative thinking & professional graphic visuals, so, for example, we will design for Mercedes Benz, Vodafone, Boeing, and more… and even we are covering social media graphic design campaigns which are crucial nowadays. We will learn how to use great & powerful AI generative tools like (Midjourney, Adobe Firefly, Chat GPT, Google Bard & More..) to work as a designer for us or as an assistant designer or for inspiration to come up with great designs that will revolutionize the design industry as we will focus on how to use them mainly for design purposes & we will dive deep into the world of text prompt engineering to take control of the generated Art & designs so we can achieve what we imagine in few clicks & also this will not only save you tons of time but also it will shorten your learning curve in the graphic design field as these tools can achieve complex visuals in a flash instead of watching and learning tutorials about specific techniques for certain effects, however still knowing the designs tools like photoshop, Illustrator & Indesign thoroughly will give a great advantage as a designer especially that AI can't really do everything as some people would imagine. we will learn in Illustrator how to design a corporate identity or a full branding from scratch including how to build professional logos & various brand publications & graphic visuals. Also, we will learn how to present our design work in a stunning way as well using both Photoshop & Illustrator & amazing resources for the best graphic design mock-ups & even how to save time designing them. then we will learn Adobe InDesign from scratch including of course different Indesign tools, Indesign panels, printing technicals, character & paragraph styles in Indesign, and Indesign’s Master pages to achieve your graphic designs in a fast & professional way through practical projects including a bifold brochure then moving to another Indesign project: full 16 pages of different creative layouts of editorial designs (also we learn more in this project about different design theories especially graphic design grids & how to apply different graphic design grids in different layouts) which will be your own stunning design portfolio by the way & you will get a portfolio template to customize it according to your own taste & style. so by the end of this course, you will have learned graphic design theories, graphic design tools (Photoshop, Illustrator, Indesign) & creative design & advertising thinking plus a full portfolio filled with your own design samples that you’ve been building through the entire graphic design course.",
+      "topic": [
+        {
+          "topic_title": "Graphic Design Introduction & Graphic design Resources",
+          "topic_details": ["Graphic Design MasterClass Promo", "How to study for this Graphic Design MasterClass (Very Important)", "Graphic design Course Resources & facebook group", "AI (Artificial Intelligence) in Graphic Design Section Added to the MasterClass"]
+        },
+        {
+          "topic_title": "Graphic Design Theories",
+          "topic_details": ["Color Theory Fundamentals for graphic designers", "Graphic design layout composition rules", "Graphic Design grids (Grid systems)", "Typography Classifications, styles, font selection & exercise", "Typography terms in Graphic design & Hierarchy", "Font Pairing in Advertising & graphic design", "Common Typography mistakes in graphic design", "Creative thinking techniques in Advertising, Graphic design & Digital marketing", "Gestalt Theory for graphic design & Advertising", "New York Museum of Illusion (visual Illusions for graphic designers)"]
+        },
+        {
+          "topic_title": "Photoshop Creative Design",
+          "topic_details": ["Photoshop Boeing Minimal Design Project", "Photoshop Art boards designs for advertising campaigns (resolution) (Exercise)", "Photoshop Vodafone Ad Design project", "Photoshop 2024 & Firefly (AI) New Features", "Dental Clinic Design (photoshop Project)(Part1)", "Dental clinic Design ( social media photoshop Project)(Part2)", "Social media Advertising Campaign in Photoshop Ad2 (exercise)", "Social media Advertising Campaign in Photoshop Ad3 (exercise)", "Mercedes Benz Ad design & concept (part1)", "Mercedes Benz Ad design & concept (part2)", "Juice Brand logo & label design & mock-up customization (part1)", "Juice Brand Ad design (part2)", "Juice Brand Ad design (part3)", "Photoshop Nike Ad design", "Creative Typography design ideas in Photoshop"]
+        },
+        {
+          "topic_title": "AI Tools in Graphic Design (New Section)",
+          "topic_details": ["Intro about AI tools like Midjourney, Adobe Firefly & Designer's Augmentation", "Midjourney (prompts, seeding, versions, related prompts & chat GPT)", "Text prompt engineering tools including chat GPT, bard & Midjourney", "complex graphic designs Using AI photoshop generative fill & Midjourney", "Adobe firefly V.S Midjourney AI Text to Image", "Adobe firefly Text effects AI tool"]
+        },
+        {
+          "topic_title": "Illustrator Creative Design",
+          "topic_details": ["Logo design concept & Graphic designer's dilemma", "Brand's logo Design Process in Illustrator", "Importance of branding & how to set brand's visual rules", "Design the brand Identity in Illustrator & Logo Option", "Presenting your designs & designing inside mockups (photoshop & Illustrator)", "Illustrator Logos & Full Branding exercise", "Illustrator 2024 New Features & (AI) Firefly"]
+        },
+        {
+          "topic_title": "Indesign Creative Design & Essentials",
+          "topic_details": ["Indesign essentials brochure project Introduction","Indesign New Documents & Graphic Design Templates","Indesign Workspace tour & familiarization & save","Indesign Brochure Project: Cover Design (Part1)","Indesign Brochure Project: Cover Design (Part2)","Indesign Brochure Project: Inside pages Design (design grid) (Part3)","Indesign Brochure Project: Inside pages Design (Part4)","Indesign Packages & Exporting (Printing Technicals)","Indesign 2022 New Updates (New Name for Masterpages)","Indesign 2023 New Features & updates","Indesign 2024 New Features & Updates","Graphic designer Portfolio Introduction","Graphic designer Portfolio Cover (5 design options)","Portfolio Pages (2-3 resume-cv) (text wrap)","Master Pages, gradient tool, page numbering & special characters","Pages 4,5 (paragraph styles, dynamic design, object style,  triangular grid)","Pages (6,10,11) Tips & tricks: Content placer, content collect, gap tools","Indesign Exercise (Designing Pages & Frame masking techniques)","Indesign Tables (styling, formatting, rounded corners & tricks)","Golden ratio grid, Fibonacci Grids using Indesign Gap tool","Type in depth in indesign (Auto thread, styles, spelling, open type, glyphs)","Indesign Packages, Impositions, pre-checking, preflight, find change & spelling"]
+        },
+        {
+          "topic_title": "Photoshop Essentials Training",
+          "topic_details": ["The Power of Photoshop","Creating Photoshop documents","Photoshop workspaces","Navigation in Photoshop","Cropping images","Color Modes in photoshop","Resolution & enlarging images without losing quality","Saving Artwork in different formats (psd,jpeg,psb,tiff,png)","Photoshop 2022 (Save a Copy & NFT)","Layers concept & Handling them","Photoshop's Layers Panel","Photoshop 2020 New Layers Navigation","Unleash creativity with Blend modes","layer styles","Transformation Modes & Tricks","Puppet warp in photoshop","Perspective warp in photoshop","Align & Distribute in photoshop","Mastering Precision in photoshop (guides, grids, rulers, snap)","Brush basics & color panel & symmetrical drawing in photoshop","brushes panel & getting cool photoshop brushes","Creating brushes & brush settings in photoshop","Digital painting Essentials, mixer brush&color replacement brush tools","Digital painting Tutorial using Photoshop","Tilde key brush shortcut (Photoshop CC 2020)","Vector shapes essentials & tools","Live shapes & Path operations in photoshop","selection concept in Photoshop & basics part1","selection concept in Photoshop & basics part2","Photoshop selection tools part1","Photoshop selection tools part2","Photoshop Object selection tool & properties panel update 2020","Photoshop 2022 Updates (New object selection & Neural filters)","Photoshop 2023 updates & New Features","Photoshop Masking & Non destructive editing","Focus range combined with Photoshop selection tools","Color range selection & Photoshop photo manipulation techniques"]
+        },
+        {
+          "topic_title": "Illustrator Essentials Training",
+          "topic_details": ["The Power of Adobe Illustrator","Illustrator Documents","Illustrator workspaces & Properties Panel","Illustrator 2022 Workspace Minor Update","Artboards","Illustrator Navigation & zooming","illustrator Preferences & Settings","Illustrator Basic geometric shapes","Illustrator Transformation & Rotation","IllustIllustrator Pathfinder & shape builder tool","Illustrator Selection tools & methods","grouping elements in illustrator","illustrator Layers","Illustrator Align & distribute panel","Illustrator Guides & Rulers","Exercise: Drawing Basic Geometric shapes","Illustrator Stroke Panel​​","Illustrator color panels (color, swatches, themes, guide)​​"]
+        },
+        {
+          "topic_title": "Bonus",
+          "topic_details": ["UNLOCK MORE DESIGN SKILLS (Bonus Lecture)"]
+        }
+      ]
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "1",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Front End Development Libraries React",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "image/icon/react.png",
+      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+      "details": "React is a popular JavaScript library for building reusable, component-driven user interfaces for web pages or applications. React combines HTML with JavaScript functionality into its own markup language called JSX. React also makes it easy to manage the flow of data throughout the application. In this course, you'll learn how to create different React components, manage data in the form of state props, use different lifecycle methods like componentDidMount, and much more.",
+      "topic": [
+        {
+          "topic_title": "Create a Simple JSX Element",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Create a Complex JSX Element",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Add Comments in JSX",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Render HTML Elements to the DOM",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Define an HTML Class in JSX",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Learn About Self-Closing JSX Tags",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Create a Stateless Functional Component",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Create a React Component",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Create a Component with Composition",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Use React to Render Nested Components",
+          "topic_details": ["No details"]
+        }
+      ]
+    },
+
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "2",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": null,
+      "title": "Digital Marketing Master Course",
+      "author": {
+        "name": null,
+        "published_date": "2022-08-30 15:00:04",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
+      "details": "lesson will be uploading gradually You will Get Huge Tips and Tricks From Out Of Marketplace in This Course Do You Want to learn digital marketing or do freelancing? Or want to take your own business to the top? Are you looking for a digital marketing course that will teach you everything you need to become a digital marketing master, right? You don't need any previous experience, from start to finish With the knowledge and abilities you'll gain in this course, you can: - Develop an online brand; - Land a fantastic career in the marketing industry; - Assist a customer in expanding their online presence. You will be doing this throughout the course! You'll pick up the appropriate methods and approaches for every category. After that, case studies will demonstrate how these methods are applied in the actual world. So why the delay? You can also become a digital marketing master by doing the digital marketing master course. Our Goals What is the goal of your digital marketing campaign? To increase sales, increase website traffic, or promote the brand? Set KPIs (Key Performance Indicators) according to goals, such as click rate, time on the website, or number of sales. Note: updated videos will be added to this course.",
+      "topic": [
+        {
+          "topic_title": "Video intro",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Create Facebook Page",
+          "topic_details": ["A Facebook Business Page is essential for businesses and organizations for several reasons. Here are some key reasons why having a Facebook Business Page is important:Online Presence: A Facebook Business Page allows your business to have a strong online presence on one of the most popular social media platforms. It serves as a digital storefront where potential customers can learn about your business. Brand Visibility: Having a Facebook Business Page increases your brand's visibility. It provides a platform to showcase your brand, products, services, and values to a wide audience, helping you reach potential customers. Marketing and Promotion: Facebook Business Pages offer various tools and features for marketing and promotion. You can create and boost posts, run targeted ads, and engage with your audience through comments and messages, helping to increase brand awareness and drive sales. Customer Interaction:"]
+        },
+        {
+          "topic_title": "Page access and switch.",
+          "topic_details": ["Access to a Facebook Page is typically granted through roles and permissions. To gain access to a Facebook Page, you'll need to be assigned a role with the necessary permissions by an existing Page Admin. Here's a general guide on how you can request or be granted access: Requesting Access: Contact the Current Admin: Reach out to the current Page Admin(s) and request access. You may need to message them directly or use other communication channels if necessary. Provide Information: Clearly state why you need access and what role you would like to have on the Page. Be specific about the tasks you intend to perform."]
+        },
+        {
+          "topic_title": "Facebook page edit and setup",
+          "topic_details": ["A Facebook Business Page is essential for businesses and organizations for several reasons. Here are some key reasons why having a Facebook Business Page is important:Online Presence:A Facebook Business Page allows your business to have a strong online presence on one of the most popular social media platforms. It serves as a digital storefront where potential customers can learn about your business.Brand Visibility:Having a Facebook Business Page increases your brand's visibility. It provides a platform to showcase your brand, products, services, and values to a wide audience, helping you reach potential customers.Marketing and Promotion:Facebook Business Pages offer various tools and features for marketing and promotion. You can create and boost posts, run targeted ads, and engage with your audience through comments and messages, helping to increase brand awareness and drive sales.Customer Interaction:"]
+        },
+        {
+          "topic_title": "How to add proper location/maps in my page",
+          "topic_details": ["When adding a location to your Facebook Page, ensure that the information is accurate and up-to-date. This helps users get the most relevant and reliable information about your business or organization. Keep in mind that not all pages may benefit from specifying a location, so evaluate whether it aligns with your overall strategy and goals.When you specify a location, it can help Facebook target your content to users in that particular area. This is especially useful if your business or content is geographically specific, and you want to reach a local audience."]
+        },
+        {
+          "topic_title": "Add Mail, Number, Social Media Link with your page",
+          "topic_details": ["Adding social media links and contact information to your Facebook page can be beneficial for several reasons:Accessibility and Communication:Contact Information: Providing an email address or phone number makes it easier for people to reach out to you, whether it's for inquiries, collaborations, or customer support.Social Media Links: Including links to your other social media profiles allows visitors to connect with you on various platforms, increasing your overall online presence."]
+        },
+        {
+          "topic_title": "Facebook page manage option and know evrything",
+          "topic_details": ["the Manage options for a Facebook page typically refer to the administrative tools and settings that allow page owners and administrators to control various aspects of their Facebook page. Please note that Facebook's interface and features may evolve, so it's recommended to refer to the latest Facebook Help Center or the platform's interface for the most up-to-date information. As of my last knowledge update, here are some common functionalities you can find under the Manage options for a Facebook page: Page Access: Manage roles and permissions for individuals who help administer the page. You can add new administrators, editors, moderators, advertisers, etc."]
+        },
+        {
+          "topic_title": "How to setup instant replay in your page",
+          "topic_details": ["Adding instant replies to your Facebook page can offer several benefits for both you and your audience. Here are some reasons why you might consider using instant replies: Immediate Response: Instant replies ensure that your audience receives an immediate response to their messages, even if you are not available to respond personally at that moment. This helps in managing user expectations and provides a quick acknowledgment."]
+        },
+        {
+          "topic_title": "How to add frequently asked questions in your page",
+          "topic_details": ["Adding a Frequently Asked Questions (FAQ) section to your Facebook page can be beneficial for several reasons:Efficient Information Access: FAQs provide a quick and easy way for users to find answers to common questions without having to contact you directly. This can save time for both you and your audience. Improved User Experience: Users appreciate a seamless and user-friendly experience. Having a well-organized FAQ section ensures that visitors to your page can quickly locate the information they are looking for, enhancing their overall experience."]
+        },
+        {
+          "topic_title": "How I will create professional post part-01",
+          "topic_details": ["A professional post on your Facebook page generally refers to a well-crafted and purposeful message that aligns with your personal or business brand. Professionalism in this context involves presenting yourself or your business positively and competently. Here are some elements that can contribute to a professional Facebook post:Clarity and Relevance: Communicate your message, ensuring it is relevant to your audience and purpose. Avoid ambiguity and get straight to the point.High-Quality Content:Share content that adds value to your audience. This could include informative articles, industry updates, or original content that showcases your expertise or services."]
+        },
+        {
+          "topic_title": "How I will create professional post part-02",
+          "topic_details": ["Creating a professional post on your Facebook page involves sharing relevant content, engaging, and aligning with your personal or business brand. Here are some tips to make your Facebook posts more professional:Clear and Concise Messaging:Concisely communicate your message. Avoid unnecessary jargon and make sure your audience can easily understand the purpose of your post.Quality Content:Share content that is valuable to your audience. This could include industry updates, helpful tips, interesting articles, or multimedia content like photos and videos."]
+        },
+        {
+          "topic_title": "How i will create professional video post with off page SEO",
+          "topic_details": ["Creating a professional video post with off-page SEO involves a combination of content creation, optimization, and promotion. Here's a step-by-step guide to help you:Create High-Quality Content:Produce a high-quality video with engaging and valuable content.Ensure good audio and video quality. Keep the video concise and focused on the topic.Optimize Video Title and Description:Include your primary keyword in the video title.Write a compelling video description with relevant keywords.Add timestamps for different sections of the video to improve user experience."]
+        },
+        {
+          "topic_title": "Meta business suite, scheduling post and content",
+          "topic_details": ["Key features of Meta Business Suite included:Unified Inbox: It allows businesses to manage and respond to messages from Facebook and Instagram in one place.Post Scheduling: Businesses could schedule posts for both Facebook and Instagram, making it easier to plan and manage content.Insights and Analytics: The suite provided analytics and insights about the performance of posts, allowing businesses to understand their audience better.Cross-Platform Posting: Businesses could create and publish content on both Facebook and Instagram simultaneously.Notifications: Businesses received notifications about important activities, messages, and insights through the Business Suite."]
+        },
+        {
+          "topic_title": "How I will see buyer page report and all insights",
+          "topic_details": ["To view buyer insights and reports for your Facebook Page, you can use Facebook's built-in analytics tool called Facebook Page Insights. Here's a step-by-step guide on how to access buyer insights on your Facebook Page:Go to Your Facebook Page:Log in to your Facebook account.Navigate to your Facebook Page by clicking on the Page name in the left sidebar or through your profile.Access Page Insights:Once on your Facebook Page, look for the Insights tab at the top of the page. Click on it to open the Insights dashboard.Explore Overview or Specific Sections:In the Insights dashboard, you'll see an overview of your Page's performance. You can explore various sections such as Overview, Likes, Reach, Page Views, and more."]
+        },
+        {
+          "topic_title": "How I will check my fb page monetization and know all requirment",
+          "topic_details": ["Completing page monetization on platforms like YouTube or Facebook can offer several benefits to content creators and page owners. Here are some reasons why you might consider completing page monetization:Earn Revenue: Monetizing your page allows you to earn revenue from your content. You can generate income through ad revenue, channel memberships, Super Chat (on YouTube), fan subscriptions, and other monetization features provided by the platform.Financial Support:Monetization can provide financial support for your content creation efforts. This can help cover expenses related to equipment, production, and other costs associated with running and maintaining a page or channel.Incentive for Quality Content:Knowing that you can earn money from your content can serve as an incentive to create high-quality, engaging content. This can lead to increased viewer satisfaction and attract a larger audience."]
+        },
+        {
+          "topic_title": "Purchase facebook, Youtube monetization from trustable panel",
+          "topic_details": ["How you will purchase the Facebook page YouTube monetization and other services from the FarukSMMpanel.com Completing page monetization on platforms like YouTube or Facebook can offer several benefits to content creators and page owners. Here are some reasons why you might consider completing page monetization:It's important to note that while monetization offers these benefits, it's crucial to adhere to the platform's policies and guidelines. Content creators should create content that complies with the platform's rules to maintain eligibility for monetization and avoid potential issues. Additionally, providing value to your audience and building a loyal following are key aspects of successful monetization efforts."]
+        },
+        {
+          "topic_title": "Facebook page promote for increase your targeted followers part-01",
+          "topic_details": ["Promoting your Facebook page can offer several benefits for individuals, businesses, or organizations. Here are some reasons why you might want to promote your Facebook page:Increased Visibility:Promoting your Facebook page helps increase its visibility among your target audience. This can result in more people discovering your content, products, or services.Brand Awareness:Building a strong presence on Facebook can contribute to greater brand awareness. Increased visibility can help people recognize and remember your brand.Audience Engagement:Promoting your page allows you to engage with your audience more effectively. Regular updates, discussions, and interactive content can foster a sense of community around your brand."]
+        },
+        {
+          "topic_title": "Targeted location for facebook page promote",
+          "topic_details": ["Choosing the right location for promoting your Facebook page is crucial to reaching your target audience effectively. Facebook provides powerful targeting options, allowing you to narrow down your audience based on location. Here are some considerations when selecting the targeted location for promoting your Facebook page:Local Audience:If your business or organization serves a specific local area, consider targeting that location. This is particularly important for brick-and-mortar businesses, local events, or services that cater to a specific geographic region.Global Reach:If your content, products, or services have a broad appeal and can be accessed globally, you might want to target a wider audience. This is suitable for online businesses, international brands, or content creators with a diverse audience."]
+        },
+        {
+          "topic_title": "Facebook ads detailed targeting for any products",
+          "topic_details": ["When creating Facebook ads, detailed targeting is a crucial step in reaching the right audience for your products or services. Here are some detailed targeting options you can consider for different types of products: E-commerce and Retail:Demographics: Target based on age, gender, and income level. Interests: Choose interests related to your products (e.g., fashion, home decor, gadgets).Behaviors: Target online shoppers or people who have made online purchases recently."]
+        },
+        {
+          "topic_title": "Add payment method with your page",
+          "topic_details": ["Adding a payment method to your Facebook Page is typically associated with advertising on the platform or, in some cases, enabling monetization features. Here are common reasons why you might need to add a payment method to your Facebook Page:Running Facebook Ads:If you plan to run paid advertising campaigns on your Facebook Page to promote your business, products, or services, you need to add a payment method. This allows Facebook to charge you for advertising expenses.Boosting Posts:Boosting posts is a way to increase the reach of your content by paying to show it to a wider audience. To boost posts, you'll need to have a payment method linked to your Facebook Page.Promoting Your Page:If you decide to use paid promotions to increase the visibility of your Facebook Page itself, you'll need to add a payment method."]
+        },
+        {
+          "topic_title": "All Facebook pages promote goal and get more website visitors",
+          "topic_details": ["If your goal for promoting your Facebook Page is to drive more website visitors, you can create and run Facebook ad campaigns with a focus on traffic and website clicks. Here's a step-by-step guide to help you achieve this goal"]
+        }
+      ]
+    },
+
+    {
+      "_id": "a713ee936ff5574273f0f769f5c5b20e",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "3",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 111,
+      "title": "Photoshop and Illustrator MasterCourse : 100+ Projects",
+      "author": {
+        "name": "system",
+        "published_date": null,
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "",
+      "image_url": "",
+      "details": "Learn Photoshop and Illustrator from Scratch to Master Level with 100+ Projects ,350+ Lectures,40+ Hours Video Content. After Taking this course , you will Master Both Photoshop and Illustrator . You will gain enormous confidence in yourself, that you can take up any professional Project You are going to Become an Active Designer as we will practice with new different images every month You can Manipulate Images as your wish . You can create your own Fantasy World You can design Cartoon faces , Awesome Professional Logos , Abstract Backgrounds , Design Effects , Text Effects etc. You can do Photo Retouching , Restoration , with Photo Manipulation You can Master The wizard : 'The Pen Tool'",
+      "topic":[
+        {
+          "topic_title": "Introduction",
+          "topic_details": ["Introduction","How to take the course and How you can take full advantage of this course","How to be an Active Designer"]
+        },
+        {
+          "topic_title": "Illustrator MasterCourse Part1 : Illustrator Basics",
+          "topic_details": ["Illustrator Interface","Creating a New Document","Project1 : Creating Interesting Shape using Simple Trick","Object Oriented Design"]
+        },
+        {
+          "topic_title": "Illustrator MasterCourse : Part2 : Creating Basic Shapes",
+          "topic_details": ["Creating Rectangle and Square Using Rectangle Tool","Rounded Rectangle Tool","Creating Rectangle and Circle Using Rounded Rectangle Tool","Ellipse Tool","Polygon Tool","Star Tool","Line Tool","Arc Tool","Spiral Tool","Project2 : Spiral Project : Part1","Project2 : Spiral Project : Part2","Project2 : Spiral Project : Part3"]
+        },
+        {
+          "topic_title": "Illustrator MasterCourse : Part3 : Creating Advanced Shapes",
+          "topic_details": ["Pathfinder Concept : Part1 : Unite","Pathfinder Concept : Part2 : Shape Modes","Pathfinder Concept : Part3 : Divide and Trim (Learn the Differences)","Pathfinder Concept : Part4 : Detailed Concept","Pathfinder Summary","Project3 : Logo Design : Bricks Logo","Project4 : Logo Design : Roshni Logo","Project5 : Logo Design : Pacman Logo","Project6 : Logo Design : Bus Logo","Project7 : Logo Design : Insurance Logo","Shape Builder Tool : Part1","Shape Builder Tool : Part2","Project 8 : Creating Clouds","Width Tool","Project9 : Fun Project"]
+        },
+        {
+          "topic_title": "Illustrator MasterCourse : Part4 : Mastering Brush Tool",
+          "topic_details": ["Using Brush Tool","Calligraphic Brush","Scatter Brush","Art Brush","Bristle Brush","Pattern Brush","Project10 : Patterened Border (Part1)","Project10 : Patterened Border (Part2)","Mega Project 11 : Cartoon Face (Part1)","Mega Project 11 : Cartoon Face (Part2)","Mega Project 11 : Cartoon Face (Part3)"]
+        },
+        {
+          "topic_title": "Illustrator MasterCourse : Part5 : Mastering Pen Tool",
+          "topic_details": ["Understanding Anchor Points and Anchor Handles","Drawing Straight Lines Using Pen Tool","Drawing Curves using Pen Tool","Important Tips and Tricks for Using Pen Tool Efficiently","Project 12 : Draw Anything Using Pen Tool : Letter Design","Mega Project 13 : Cartoon Face Using Pen Tool : Part1","Mega Project 13 : Cartoon Face Using Pen Tool : Part2","Mega Project 13 : Cartoon Face Using Pen Tool : Part3"]
+        },
+        {
+          "topic_title": "Illustrator MasterCourse : Part6 : Mastering Illustrator Tools",
+          "topic_details": ["Selection Tool","Direct Selection Tool","Magic Wand and Lasso Tool","Pencil, Eraser, Knife and Scissor Tool","Reflect and Rotate Tool","Scale and Sheer Tool","Pucker and Bloat Tool","Perspective Grid Tool","Type Tool (Part1)","Type Tool (Part2)","Gradient Tool","Chart Tool","Blend Tool","Gradient Mesh Tool","Free Transform Tool","Zoom and Hand Tool","Eye Dropper Tool","Project 14 : Metallic Text","Project 15 : Sale Banner Design","Project 16 : Abstract Shapes","Project 17 : 3D Chart","Project 18 : 3D Mango Design"]
+        },
+        {
+          "topic_title": "Illustrator MasterCourse : Part7 : Mastering Important Palettes/Panels",
+          "topic_details": ["Stroke Palette","Appearence Palette","Align Palette","Symbols Palette"]
+        },
+        {
+          "topic_title": "Illustrator MasterCourse : Part8 : Important Tips and Tricks for Easing Workflow",
+          "topic_details": ["Selecting and Moving Objects","Arranging Objects","Copy Pasting Object Techniques and which to use when","Hiding and Locking Layers","Stroke and Fill Techniques","Color Palette","Zooming and Dragging around Document for Efficiency","Aligning Objects Properly","Anchor Points and Direct Selection Tool","Expand and Expand Appearence","Transforming Objects (Reflect Technique also covered)"]
+        },
+        {
+          "topic_title": "Illustrator MasterCourse : Part9 : Mastering Effects in Illustrator",
+          "topic_details": ["Transform","Pucker and Bloat","Free Distort","Tweak","Twist","Zigzag","Offset Path","Effect Gallery","Project 19 : Creating Flowers (Multiple Techniques)","Project 20 : Amazing Shapes with Steps Revealed","Project 21 : Logo Design1","Project 22 : Logo Design2","Project 23 : Shiny Edge Project","Project 24 : Abstract Background Using Method 1","Project 25 : Abstract Background Using Method 2","Adding Shining Effect : Moon Project"]
+        },
+        {
+          "topic_title": "Illustrator MasterCourse : Part10 : Masking",
+          "topic_details": ["What is Masking and Understanding Draw Inside Mode", "Clipping Mask", "Opacity Mask","Project27 : Profile Pic (Image Inside Shape)","Project28 : Image on Text", "Project29 : Reflection Effect"]
+        },
+        {
+          "topic_title": "Illustrator MasterCourse : Part11 : 3D",
+          "topic_details": ["Extrude and Bevel","Revolve","Rotate","Project30 : Ribbon","Project31 : Logo Design"]
+        }
+      ]
+    },
+
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      "others_info": {
+        "is_todays_pick": true,
+        "is_trending": false
+      },
+      "category_id": "4",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "Mathematics B (Edexcel) - Sets, Probability, and Venn Diagrams",
+      "author": {
+        "name": "Theo Minh Châu",
+        "published_date": "2022-08-25 06:03:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/6540abcbb378c.png",
+      "image_url": "https://i.ibb.co/WNrB5d7/unsplash-Eh-Tc-C9s-YXsw-9.png",
+      "details": "Course Description: This course is designed to provide a comprehensive understanding of Sets, Probability, and Venn Diagrams within the context of Edexcel's Mathematics B curriculum. Students will learn the fundamental concepts, principles, and applications of these topics.",
+      "topic": [
+        {
+          "topic_title": "Section 1: Introduction to Sets",
+          "topic_details": ["Understanding sets, elements, and subsets (LESSON 1)", "Set Notations And Terminologies ( LESSON 2 TO 6", "UNION, INTERSECTIONS AND COMPLEMENTS OF SETS (LESSON 7 FIRST PART", "Venn diagrams for two and three sets ( LESSON 7 SECOND PART )",""],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/9sc9KMWilyUjc4r80A2PZChEEcdHUL4MDy47c3Si.png", "https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/bT2vJHLYs66hETZQUzfDo24hC8BRiFmLiwBTeYgM.png", "https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/StBoIB4ykYeajIY7JdgpB3nSkwvGvuCWFr4tPKWa.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/tQwnGiIIEvCwMnvAii11Q3eMnioWELEh8DIonoHC.png"]
+        },
+        {
+          "topic_title": "Set Operations",
+          "topic_details": ["SET OPERATIONS AND THEIR PROPERTIES ( lesson 8 to 10 )","DE MORGAN'S LAW Lesson ( 10 to 13)","REAL LIFE APPLICATIONS OF SET OPERATIONS (Lesson 10 To 13)","PRACTISE EXERCISE AND PROBLEMS Lesson (14 and 15)"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/VGyzOzZKS1FRUhJdJWcg2g6LDHy3NZ1J24CQdZWo.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/Ek3FHVO3I6li1aClLsEK8SSYLAkVkB1M1whwWpwt.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/NwxELkxCVfvAQtcpP8EeYY3L7nRX4QcIAQHMeHKf.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/IrADSxLQwlVst6iDZhp3VXp7xXz1UN3khZcfqAXX.png"]
+        },
+        {
+          "topic_title": "PROBABILITY BASICS",
+          "topic_details": ["INTRODUCTION TO PROBABILITY AND PROBABILITY AS A RATIO ( Lesson 16 to 21 )", "PROBABILITY AS THEORY AND RATIO CONTINUATION ( Lesson 22 to 25 )","Sample Space, Events And types of Events Lesson (25 to 27)","PROBABILITY OF SIMPLE EVENTS ( LESSON 28 TO 30 )","PROBABILITY OF COMPLEMETARY SETS"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/ZUlqd7X0jzESoXLYIiPsxu3gYbVFs3QEycC8KcbY.png", "https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/LKWjFKoSkNkBFGSJErmXg7uDIrY3eVTVeoZ8wnHB.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/5R2GSY9RGnpkXcwo33zgztW2Rh77ghxlwrwOz9HL.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/uxifprLxIM5F6YB6KT72OssKu2D3xRNE2UK4Mhlq.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/kzmvEo0vF0XOhgcr10Spenr8uh0ZZfcA3DsykCyC.png"]
+        },
+        {
+          "topic_title": "THE ROAD TO BE AN EXPERT IN PROBABILTY AWAITS FOR YOU SOON",
+          "topic_details": ["Addition And Multiplication of Probability Formula","Addition and multiplication of probabilities Continuation Part 2","Addition and multiplication of probabilities PART 1 MUTUAL AND NON MUTUAL EVENTS","Addition and multiplication of probabilities PART 4","Addition and multiplication of probabilities PART 5"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "TREE DIAGRAM",
+          "topic_details": ["TREE DIAGRAM FUNDAMENTA CONCEPT","TREE DIGRAM FUNDAMENTAL CONCEPT  MATHS ( PRACTISED)"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "CONDITIONAL PROBABILITY",
+          "topic_details": ["CONDTIONAL PROBABILITY PART 1", "Conditional Probability Part 2","Conditional Probability Part 3"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "The End of the Tunnel",
+          "topic_details": ["Story of A history Teacher","Story of the history Teacher Part 2","Yes, it is the morale of the story","Concepts And Maths Using 3 Venn Diagrams Part 1","Concepts And Maths Using 3 Venn Diagrams Part 2","Concept And MAths Using 3 Venn Diagrams Part 3"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "We can have A Sigh",
+          "topic_details": ["Disjoint and Overlapping Events Part 1","Disjoint and Overlapping Events Part 2","Disjoint and Overlapping Events Part 3","COMPOUND EVENTS","COMPOUND EVENTS MATHS","COMPOUND EVENT MATHS PART 2"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "HOME WORK FOR LIVE CLASS",
+          "topic_details": ["HOMEWORK FOR LIVE CLASS"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "YOUR FEEDBACKS",
+          "topic_details": ["YOUR FEEDBACKS"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "REGARDING O LEVELS",
+          "topic_details": ["REGARDING O LEVELS PART 1","REGARDING O LEVELS PART 2","REGARDING O LEVELS PART 3","REGARDING O LEVELS PART 4","LAST TRICKS AND TIPS"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "FINAL TALKS",
+          "topic_details": ["MY FINAL ADVICES TO YOU STUDENTS"],
+          "topic_thumbnail": null
+        }
+      ]
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "4",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "IELTS Master Guideline A-Z",
+      "author": {
+        "name": "Nahreen Zannat",
+        "published_date": "2022-08-25 06:03:00",
+        "img": "https://instructory-s3-storage-live.s3.brilliant.com.bd/profile_photos/uwBAakXHO1nQoNHtistGIgveAaCHeJ87GDYKJ1ya.jpeg"
+      },
+      "thumbnail_url": "https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/giuymOlhrEUTSj7a5dEargrBXvYYDoDZQDEnyReh.jpeg",
+      "image_url": null,
+      "details": "Learn IELTS from basic grammar to advanced English in 52 lessons or more. We will cover A-Z of IELTS in this course so every learner can master and excel in IELTS. The course starts with basic parts of speech and ends with advanced IELTS examinee tips and tricks. By taking this course not only you will be prepared for IELTS but also it will help you to master in English language.",
+      "topic": [
+        {
+          "topic_title": "Introduction",
+          "topic_details": ["Introductiontothecourse.mp4","Overview on IELTS.mp4", "Academic&General.mp4"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "Basic Grammar",
+          "topic_details": ["Parts of Speech 1.mp4","Parts of speech2.mp4","Sentence Structure with active and passive voice.mp4","Nouns.mp4","Active and passive voice lesson.mp4","pronoun.mp4","Adjective.mp4","Adverb.mp4","verb.mp4","prepositionlesson01.mp4","Preposition 2.mp4","preposition3.mp4","Preposition (Bonus lesson).mp4","Conjunction.mp4","SUBJECTVERB AGREEMENT LESSON 1.mp4","Subject-verb agreement 2.mp4"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "Tense with sentence Structure for IELTS reading and writing",
+          "topic_details": ["Past Continuous tense.mp4","Present Continuous tense.mp4","Future Perfect tense.mp4","Present perfect tense.mp4","Past Perfect Tense.mp4","Present perfect continuous.mp4","Past perfect continuous.mp4","Future perfect continuous tense.mp4","Future Continuous tense.mp4"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "Sentence Structure",
+          "topic_details": ["Sentence structrure1.mp4","Sentence structure 2.mp4","Sentence Structure 3.mp4"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "IELTS READING",
+          "topic_details": ["Reading lesson 01.mp4","Reading 2.mp4","Reading3.mp4","Mockup test 1.mp4","Mockup reading  test2.mp4"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "IELTS SPEAKING",
+          "topic_details": ["Speaking lesson 01.mp4","SpeakingSession02.mp4","Speaking lesson3.mp4","Speakingmockup.mp4"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "IELTS LISTENING",
+          "topic_details": ["Listening part 1.mp4","Full listening mockup test 1","Listening mock test 2.mp4","Listening mcq mockup.mp4"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "IELTS WRITING",
+          "topic_details": ["Writing Academic task 1.mp4","Writingtask2.mp4","Task 2 Modelessay.mp4","LinkingWords.mp4","Generaltask1.mp4"],
+          "topic_thumbnail": null
+        },
+        {
+          "topic_title": "Tips and tricks for exam",
+          "topic_details": ["OnTheExamDayTips.mp4"],
+          "topic_thumbnail": null
+        }
+      ]
+    },
+
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a3",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "5",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "Brand Animation - MASTERCLASS",
+      "author": {
+        "name": "Abdullah Al Mazbah",
+        "published_date": "2022-08-25 18:53:49",
+        "img": "https://instructory-s3-storage-live.s3.brilliant.com.bd/profile_photos/8o2zySyKc9NY37EpMjwVArukAM8a61Wc6Eo6A7sP.png"
+      },
+      "thumbnail_url": "https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/7Wpwsy7YvP1ge11BuKdhxi5vZP2sFlSOOxDIRAMa.jpeg",
+      "image_url": null,
+      "details": "In this video, we will explore the course curriculum for creating an amazing, attractive, and uniquely branded introduction animation. I hope this video proves to be helpful for you. Feel free to reach out if you need any assistance; I am here to help.  Welcome to my page! I'm Mazbah Rifat, a seasoned freelancer with 5+ years of experience and 4000+ satisfied clients worldwide on platforms like Fiverr and Upwork. I'm your go-to expert for branding, spanning Graphic Design, YouTube channel enhancements, SEO, Digital Marketing, Video Editing, and Social Media. Beyond freelancing, I'm a dedicated Mentor and Coordinator at the Her Power Project's ICT division. My commitment is to your success, and I thrive on exceeding expectations.",
+      "topic":[
+        {
+          "topic_title": "Course Curriculum",
+          "topic_details": ["Brand Animation - MASTERCLASS (Course Curriculum)"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "HOW TO BUY SUBSCRIPTION",
+          "topic_details": ["HOW TO BUY SUBSCRIPTION"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 1 - TECH BRAND INTRO ANIMATION",
+          "topic_details": ["LESSON 1 - PART (1) TECH BRAND INTRO ANIMATION","LESSON 1 - PART (2) TECH BRAND INTRO ANIMATION","LESSON 1 - PART (3) TECH BRAND INTRO ANIMATION","LESSON 1 - PART (4) TECH BRAND INTRO ANIMATION"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 2 - GAMING BRAND INTRO ANIMATION",
+          "topic_details": ["LESSON 2 - PART (1).mp4","LESSON 2 - PART (2).mp4","LESSON 2 - PART (3).mp4","LESSON 2 - PART (4).mp4","LESSON 2 - PART (5).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 3 - BUSINESS BRAND INTRO ANIMATION",
+          "topic_details": ["LESSON 3 - PART (1).mp4","LESSON 3 - PART (2).mp4","LESSON 3 - PART (3).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 4 - 3D BRAND INTRO ANIMATION",
+          "topic_details": ["LESSON 4 - PART (1).mp4","LESSON 4 - PART (2).mp4","LESSON 4 - PART (3).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 5 - SPORTS BRAND INTRO ANIMATION",
+          "topic_details": ["LESSON 5 - PART (1).mp4","LESSON 5 - PART (2).mp4","LESSON 5 - PART (3).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 6 - LUXURY BRAND INTRO ANIMATION",
+          "topic_details": ["LESSON 6 - PART (1).mp4","LESSON 6 - PART (2).mp4","LESSON 6 - PART (3).mp4","LESSON 6 - PART (4).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 7 - FIVERR LIVE PROJECT (Order Taking Process, Communication with Buyer, Completing Order Work, Order Delivery, 5-Star Review)",
+          "topic_details": ["LESSON 7 - PART (1).mp4","LESSON 7 - PART (2).mp4","LESSON 7 - PART (3).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 8 - FIVERR LIVE PROJECT (Order Taking Process, Communication with Buyer, Completing Order Work, Order Delivery, 5-Star Review)",
+          "topic_details": ["LESSON 8 - PART  (1).mp4","LESSON 8 - PART  (2).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 9 - FIVERR LIVE PROJECT (Order Taking Process, Communication with Buyer, Completing Order Work, Order Delivery, 5-Star Review)",
+          "topic_details": ["LESSON 9 - PART (1).mp4", "LESSON 9 - PART (2).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 10 - FIVERR LIVE PROJECT (Order Taking Process, Communication with Buyer, Completing Order Work, Order Delivery, 5-Star Review)",
+          "topic_details": ["LESSON 10 - PART (1).mp4","LESSON 10 - PART (2).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 11 - NEON BRAND INTRO ANIMATION",
+          "topic_details": ["LESSON 11 - PART (1).mp4","LESSON 11 - PART (2).mp4","LESSON 11 - PART (3).mp4","LESSON 11 - PART (4).mp4","LESSON 11 - PART (5).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 12 - FIRE BRAND INTRO ANIMATION",
+          "topic_details": ["LESSON 12 - PART  (1).mp4","LESSON 12 - PART  (2).mp4","LESSON 12 - PART  (3).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 13 - SMOKE BRAND INTRO ANIMATION",
+          "topic_details": ["LESSON 13 - PART  (1).mp4","LESSON 13 - PART  (2).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 14 - GLITCH BRAND INTRO ANIMATION",
+          "topic_details": ["LESSON 14 - PART  (1).mp4","LESSON 14 - PART  (2).mp4","LESSON 14 - PART  (3).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 15 - CINEMATIC BRAND INTRO ANIMATION",
+          "topic_details": ["LESSON 15 - PART (1).mp4","LESSON 15 - PART (2).mp4","LESSON 15 - PART (3).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 16 - OUTRO/END SCREEN BRAND ANIMATION",
+          "topic_details": ["LESSON 16 - PART (1).mp4","LESSON 16 - PART (2).mp4","LESSON 16 - PART (3).mp4","LESSON 16 - PART (4).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 17 - KIDS BRAND INTRO ANIMATION",
+          "topic_details": ["LESSON 17 - PART (1).mp4","LESSON 17 - PART (2).mp4","LESSON 17 - PART (3).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 18 - ANIMATED TEXT BRAND INTRO",
+          "topic_details": ["LESSON 18 - PART (1).mp4","LESSON 18 - PART (2).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 19 - HORROR BRAND INTRO ANIMATION",
+          "topic_details": ["LESSON 19 - PART (1).mp4","LESSON 19 - PART (2).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        },
+        {
+          "topic_title": "LESSON 20 (Mega Session) - FIVERR LIVE PROJECT (Order Taking Process, Communication with Buyer, Completing Order Work, Order Delivery, 5-Star Review)",
+          "topic_details": ["LESSON 20 - PART (1).mp4","LESSON 20 - PART (2).mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/k2O8IGD6IUX9y4bNVV2Dgg2PLb1065uKL2NEU6B2.jpeg"]
+        }
+      ]
+    },
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a4",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "5",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "Complete Video editing COURSE with Motion graphics",
+      "author": {
+        "name": "MD Naimul Islam",
+        "published_date": "2022-08-25 18:53:49",
+        "img": "https://instructory-s3-storage-live.s3.brilliant.com.bd/profile_photos/ZYHpOfTLOUCjNMCqDGtmBVyjSJSIepwNZfMpRCfF.jpeg"
+      },
+      "thumbnail_url": "https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/M4pfSApUV6lJYsQMqgp9nV4yge6HfhGPcqWelHvG.jpeg",
+      "image_url": null,
+      "details": "At present the demand for motion graphics and video as a profession or as a freelancer is skyrocketing. Just as the field of work for a motion graphics and video editor is being created in the companies of Bangladesh, the clients are also posting jobs for the work of motion graphics and video in the online marketplaces every day.",
+      "topic":[
+        {
+          "topic_title": "Intro",
+          "topic_details": ["Course and Instructor introduction"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/FFQPdulsQC0gX0mEjtELe4yLAnQSCC9dF8WLibIz.jpeg"]
+        },
+        {
+          "topic_title": "Premiere pro A-Z",
+          "topic_details": ["Lesson 1 Pr Basic.mp4","Starting with Basic animation, effects Key frames,","Subtitle Editing in Premiere Pro","Speed Ramp (Slow Motion, Fast forward)","Bangla typing in Adobe Software","Color Correction & Color Grading","Transitions (custom and default)","Denoiser and Beauty Skin effect","Sky replacement","Green Screen Editing using Premiere Pro","Edit Bad green screen","Essential graphics for Premiere Pro","Audio editing","Render setting for social media","Free Resource for Editing Videos","Crop tool and Masking","Face Blur with Tracking","3rd Party Luts & color Shifting","Video into text Effect or matte effect","Advance speed Ramping","Premiere Pro shortcuts & Tips"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/4lTcYZrKhbT4XdhGSjsZjFNTEy7MOoXByRX1RAoj.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/lhFnY91JweOGoZSGViQlNFSLAoMGoQdFgesGTLRe.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/TgxgZtaKWfDiOr01BEcnPF8aowVNo2dodRWAZIZk.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/JZw4tXmqwJ5LMcqrBxBSMlBy4kwTz4kDzjaGFf5I.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/hUA8p4Iwmi8gzb1n1hxVa44bvcb8mYWJ8RKF3gax.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/OA5GTferxGnpjoeHIHUIKcY0wojVoMOdBtdiClmT.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/Rae93NN9mHDnjLVMAEiWOSlGvMfHyXAQlAPyXFBY.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/uzsh8dOFI8X2pqolFz6UO7juqD5RlT45IxwTcWnf.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/qDE8FbikQHgflhfgwmeWNqkUESCvn1f1zZh6alOI.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/kkaAt3qch8BO6PCByH96D8QHxVbj608bl1UqEW6B.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/7c09dkfQqIhJZkWtXVLFtNZvLS6SL9s4yhDqI844.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/CVVID0G5b95ThnbQyq8mL019IMzD0c3Drx1CDQbf.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/BsX7CVMIhzSTp7DgbFU58iSY8iRdBh9DRECmYE8C.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/cEPSOuQPNXSIorQdagPKsdCYzQt8sl40k1fcIzfV.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/48zRdgC9pQBiiNvGntUBl3NfoUlMcN46Nx6S9p86.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/4LlrXFzbtqXThKwTULx8I1PkPPwweavvYW4xDzZL.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/Cd9pnio1pRbsoBz6vuoRZkdsBmctqe2OoogFeSMA.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/xsncPmhcYes8By4ylwokV8UsSZrhf8DTcqQ7qJxd.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/xsncPmhcYes8By4ylwokV8UsSZrhf8DTcqQ7qJxd.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/l24yhBRyGNkGyqmAjQKfqrDp4qJBlxUQKkroy5U4.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/f3x8MLPqeZBYk8PblMUakq0T3B89Ultp8EEcyeMM.jpeg"]
+        },
+        {
+          "topic_title": "Plugins and Scripts Installation video",
+          "topic_details": ["Saber , Beauty box and RG universe Plugin Installation process","Element 3d, Optical flares and Heat distortion  Installation","Magic Bullet and Lockdown Plugin","dehancer, neat video & geolayers"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/e032qbSBmMlihCJhsgAVAeAbtoSr2aZ23zntz16n.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/gavwRQuY2rcHQsMYVOAaWPHq79ibiPz62AUAH6t4.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/GxZsool2SJBpA2Ub4LeB7kewS76SVVib9VCIuSlv.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/cutOHii0dPjtmowXJcBqpOghotNjNmpG5TcYAfT8.jpeg"]
+        },
+        {
+          "topic_title": "Social Media",
+          "topic_details": ["Video Format For Social Media"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/s0FaWJOXUE6zoRqWK8STsYHFXYBwvuwl0iAAk6hO.jpeg"]
+        },
+        {
+          "topic_title": "After effects Basic - Project settings, Tools",
+          "topic_details": ["After effects Basic - Project settings, Inteface ,Tools","Export/render settings,","Text and Title animation","2d Shape Animation","Object Along Path"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/c0xmm26ldZZLv58DrsXECMBXw3iIYanh8tKGk3q3.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/9YSOYlpsvHtuis3OjsJCJ9pvHoXwvlOARL5oKlZZ.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/jGDw6DRIhMz6yVmi0oSjrNLmVJbgXnWeRep7laov.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/gHATwaWMDU3alNhdXsr49eiNZUyVDQ6cVxoiGW9M.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/raAHFBknPSzMd6VWRGHwvI0dKrBPq4Xi0pYaB8GY.jpeg"]
+        },
+        {
+          "topic_title": "Transitions",
+          "topic_details": ["Custom shape Transitions Part 1","Custom Shape Transitions part 2"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/orsfey3haNEmU6gNnZBAtNLlqUoEeW7n2Omh9tLB.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/rSzvqGp1caOIiVcE8WRfcfFM0xJOqEdXyWOb5Occ.jpeg"]
+        },
+        {
+          "topic_title": "Animated Motion Background",
+          "topic_details": ["Animated Motion Background"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/OV14vqZxfgfhGfJnH1RNcqFPye4NFIjKnlkEBYRr.jpeg"]
+        },
+        {
+          "topic_title": "Null Object, Expression & Script",
+          "topic_details": ["Null Object, Expressions, Script","Overload Installation and Process"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/XGNc8uNMrKzYHXRp7k9mo4n5hJbmdRnWJBKVQYnG.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/4XhaKspOuZZUyUEZYh5GwkngN48QPP0yWabgHM9l.webp"]
+        },
+        {
+          "topic_title": "Mobile UI Animation",
+          "topic_details": ["Mobile UI Animation ( Screen Sliding)"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/Rr9encDJVU8ON5ykcNqRrBvMkOwSTkgxclARFTcf.jpeg"]
+        },
+        {
+          "topic_title": "Tracking",
+          "topic_details": ["Camera Tracking","Motion Tracking"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/SSpIsd54XJbUZateGah8Dvbxc4KnFsq21kehjQl1.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/gKjYwQ8Wp3jLeqTpTWQGeAJJuZVKkb3HVOIVaqHa.jpeg"]
+        },
+        {
+          "topic_title": "Green Screen Editing",
+          "topic_details": ["Green screen without Tracking Mark (after effects)","Green screen with Tracking Mark (After effects) Part 1","Green screen with Tracking Mark (After effects) Part 2"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/xeFQsxpyea5fYm5vPiHXEgkFYzGTEkNtBn9QAHgf.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/QjTN4HzIyKBJKAp34d9Q1E1kgoOp1wHORyhCeVHN.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/n8x7ohJLwfMTyKGpTzdhOGLD2rFxJGA4bsFXkxIp.jpeg"]
+        },
+        {
+          "topic_title": "Audio Visualizer/ Reactor",
+          "topic_details": ["Audio react/visualizer part 1","Audio react/visualizer part 2"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/YjPFhy5VghnPsHu54JosIzyU9RjZzBpH7ycg0skI.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/P5MjCWQHsXmrDsoS8kADMVae5DbD4TWer38sW0dN.jpeg"]
+        },
+        {
+          "topic_title": "Custom Logo Intro/Animation",
+          "topic_details": ["Illustrator Files to After effects","Custom 2d Logo Intro/Animation","Saber logo intro","How to Make 3d logo Animation without any Plugin"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/ONsykszsvxKumxmR7UuMnzV3iXXLqDhVBJqhtZXK.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/TIgXuPYYrlEopKDWkmVTTLYUFJ20QxXB20NEwFKM.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/g0klDw86qu9n4ALF7SHe7buvOJNN3Bq82pq3l54Q.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/rTAj5j8Bhkby8ZEYZS85RQTuawN6egvUdwFuxiFL.jpeg"]
+        },
+        {
+          "topic_title": "Cinematic Title Animation with  Particle Animated Background",
+          "topic_details": ["Create particles Background","Cinematic Title Animation"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/C2keSlpiCkWphaWcKW7JHpyoGebzUuSOJu53nnv8.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/iCZRwre3KQkhrYpDu9imFBzzsrvptCtOkoVCydgP.jpeg"]
+        },
+        {
+          "topic_title": "After effects Tips and Shortcuts",
+          "topic_details": ["After Effects Tips and Shortcuts Part 1"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/irMkiD9iyKdLX7PM64mAxyVWL1KI4CuZiaf1Df3z.jpeg"]
+        },
+        {
+          "topic_title": "Welcome to 3D Interface",
+          "topic_details": ["Light & Camera Into 3d space","3d Text and Shape  without any Plugin","Element 3d Part 1","Element 3d Part 2","Tracking 3d object"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/cnEYTPyUVjThSf83MY9jqsblCwkkDfzzmgX7045s.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/E6Xv2qVMEewRcMvgDkRDYI6IjCxban7YOT7R2JNh.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/v6CsStm3y3pqSwocCxQYgp4V7N1xCOG6t712bDIy.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/McloOkRCBVwmqR87xl8ncyM3KtUfV0eUBWBya2JL.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/ZDAp2fPNoakxtXshMcCgD74gYnxkAUmjUBA88RaP.jpeg"]
+        },
+        {
+          "topic_title": "Make Professoinal Intro using Element 3d",
+          "topic_details": ["3d Cinematic title Intro Using element 3d","3d Logo Intro /Animation","Advance 3d Logo animation Using Element 3d","3d Logo Animation with Advanced Lighting and Camera Movement Part 1","3d Logo Animation with Advanced Lighting and Camera Movement Part 2"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/TOGfgnLDYjyQwA9kIyBA1oaBa5dddghrAG4hNzGo.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/E0tnm9Xs4uqaQVJ5X7drJ1FrbJhc3KIFYVOgG6Am.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/oIAGE17qQRQyNTckloIcfWNt4TW6izAsocIXbAGB.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/hU5SQKaYK3Pm6ivVYOqqRPhjcJB86uKQ274pi0c1.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/NxlBSfUVRzGCXTLGE37TrGz0q7wGXSwWy12EETGE.jpeg"]
+        },
+        {
+          "topic_title": "Product Promotional video",
+          "topic_details": ["Product Promotional video","Animated  Social media ads"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/dXGDdAg0IM69zmf3RTEmcjnX0SmG1zj1PtA0hOtp.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/F4cyx1ca41Whejg6sqTT7DZr1R77EQcBs0qhRr3R.jpeg"]
+        },
+        {
+          "topic_title": "RotoBrush",
+          "topic_details": ["RotoBrush/Rotoscope"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/jgqbNTWxB9LECSbqHXVoRbf2tLYCfiUjpe1WA25M.jpeg"]
+        },
+        {
+          "topic_title": "Lyric Video Making",
+          "topic_details": ["Lyric Video making"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/n6ILUzMX17YJGUePLc6xUuAcMTDiRnIwcJkoFqBJ.jpeg"]
+        },
+        {
+          "topic_title": "Explainer Video Making Process For Beginners",
+          "topic_details": ["Explainer Video making Process","Explainer Video for Big Project  part 1","Explainer Video for Big Project  part 2"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/bczrpxmelXPGw1GMcvP93X2gk7UfJpTj3zCyHg85.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/9UYcZTsPJSG3ORFVN44MGGLJD1694lfPAnVR7Sjt.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/mxeXtf9Qiy4pxphRuHL6pnIrqatvYzhqb5QmeFqX.jpeg"]
+        },
+        {
+          "topic_title": "Simple Budget VFX",
+          "topic_details": ["Simple Visual Effects / Vfx compositing"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/ZKSCh09IxlaGAyypGIxP1WR9YLzgQMtKqYlM4M77.jpeg"]
+        },
+        {
+          "topic_title": "Youtube Video Editing Tips",
+          "topic_details": ["Make Better Editing for YouTube video Tips and tricks"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/fCHwmCjldU1hFKe8yVO2btBYd83cnFredXTieG9W.jpeg"]
+        },
+        {
+          "topic_title": "Freelancing guide",
+          "topic_details": ["Fiverr Marketplace for Motion Graphics : Beginners Guide","Fiverr Gig Creation in 2023 New Method"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/tHMu4def3FYV6G1BR7eluLDejhamDj6xM1W62snE.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/TpWWZ8uk2zPM7lIYm4udGPGjoZLreIBuQxzGim0n.jpeg"]
+        },
+        {
+          "topic_title": "Overview",
+          "topic_details": ["Overview of this Course"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/pv17Hsbz5adQadxW82p7cUFZsfW6Vsu4JK3lQ3Xa.jpeg"]
+        }
+      ]
+    },
+
+    {
+      "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "6",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 300,
+      "title": "Lead Generation Masterclass - Battle of Premium tools",
+      "author": {
+        "name": "MARIA MISTI",
+        "published_date": "2022-08-24 22:30:00",
+        "img": "https://instructory-s3-storage-live.s3.brilliant.com.bd/profile_photos/sZ6Jm4RKbLYrNEqwCeaBLLytGa26VIYwLWEHXKFQ.png"
+      },
+      "thumbnail_url": "https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg",
+      "image_url": null,
+      "details": "Lead generation is the process of generating consumer interest for a product or service with the goal of turning that interest into a sale. In online marketing this typically involves collecting a visitor’s contact information (called a “lead”) via a web form. Lead generation is a core part of the sales funnel for many B2B companies since their products can cost thousands of dollars and web visitors are less likely to buy their product or service directly from the website. Collecting new leads allows the businesses to educate and nurture prospective customers through email marketing, before reaching out to qualified leads directly via salespeople. Lead generation is also important for ecommerce and other businesses, as email marketing is still one of the most effective channels for marketing online, and gathering a prospective customer’s contact info allows the business to market to them later, even if they do not make a purchase immediately.",
+      "topic": [
+        {
+          "topic_title": "Section 1 (Lead generation Battle of Premium tools)",
+          "topic_details": ["Instructor overview,Introduction of Lead generation,Course overview.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg"]
+        },
+        {
+          "topic_title": "Section 2",
+          "topic_details": ["Type of Lead generation & Fundamental Information about b2b company lead.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg"]
+        },
+        {
+          "topic_title": "Section 3",
+          "topic_details": ["Premium Directory site for b2b company lead.mp4","Local Directory site.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg"]
+        },
+        {
+          "topic_title": "Section 4",
+          "topic_details": ["Company Revenue,Industry,Keyword emplyoee count finding using tools.mp4","Company Email finding using automation tools.mp4","Automated company data export by web scraper .mp4","Live Project overview for company details finding.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg"]
+        },
+        {
+          "topic_title": "Section 5",
+          "topic_details": ["Fundamental Information about B2B Employee lead.mp4","Alternative of Linkedin premium core  X-Ray Search LinkedIn.mp4","B2B Emplyoees lead finding A2Z using Advance tools.mp4","How to use Clearbit,Salesql,Contactout,Leadleaper for b2b lead generation.mp4","How to use apollo for b2b lead generation Basic to advance.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg"]
+        },
+        {
+          "topic_title": "Section 6",
+          "topic_details": ["Apollo io premium core purchase for free.mp4","Unlimited apollo io account create.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg"]
+        },
+        {
+          "topic_title": "Section 7",
+          "topic_details": ["B2B corporate email structure details.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg"]
+        },
+        {
+          "topic_title": "Section 8",
+          "topic_details": ["Zerobounce Account create for free.mp4","How to use Quick mail verifirer for free.mp4","Industrial B2B Lead generation Live project.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg"]
+        },
+        {
+          "topic_title": "Section 9",
+          "topic_details": ["CRM Data Entry.mp4","Work Process of CRM Data Entry.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg"]
+        },
+        {
+          "topic_title": "Section 10",
+          "topic_details": ["Fundamental information about Fiverr and Fiverr account.mp4","Fiverr Gig description and gig image Details.mp4","Fiverr account create and setup.mp4","Fiverr gig upload and published.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/MpxbMNhBpUnylXp8efITo55lFPVEm1cXrR4mEWje.jpeg"]
+        }
+      ]
+    },
+    {
+      "_id": "7c4dfea0fafddc813673282a428429b7",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 0,
+      "title": "Data Visualization with D3",
+      "author": {
+        "name": "Reuters",
+        "published_date": "2022-08-25 03:09:16",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://d3js.org/logo.svg",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "Data is all around us, but it doesn't mean much without shape or context. In the Data Visualization Certification, you'll build charts, graphs, and maps to present different types of data with the D3.js library. You'll also learn about JSON (JavaScript Object Notation), and how to work with data online using an API (Application Programming Interface). D3, or D3.js, stands for Data Driven Documents. It's a JavaScript library for creating dynamic and interactive data visualizations in the browser. D3 is built to work with common web standards - namely HTML, CSS, and Scalable Vector Graphics (SVG). D3 supports many different kinds of input data formats. Then, using its powerful built-in methods, you can transform those data into different charts, graphs, and maps. In the Data Visualization with D3 courses, you'll learn how to work with data to create different charts, graphs, hover elements, and other ingredients to create dynamic and attractive data visualizations.",
+      "topic": [
+        {
+          "topic_title": "Add Document Elements with D3",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Select a Group of Elements with D3",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Work with Data in D3",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Work with Dynamic Data in D3",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Add Inline Styling to Elements",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Change Styles Based on Data",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Add Classes with D3",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Update the Height of an Element Dynamically",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Change the Presentation of a Bar Chart",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Learn About SVG in D3",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Display Shapes with SVG",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Create a Bar for Each Data Point in the Set",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Dynamically Set the Coordinates for Each Bar",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Dynamically Change the Height of Each Bar",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Invert SVG Elements",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Change the Color of an SVG Element",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Add Labels to D3 Elements",
+          "topic_details": ["No details"]
+        }
+      ]
+    },
+    {
+      "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 320,
+      "title": "Relational Database",
+      "author": {
+        "name": "John Pike",
+        "published_date": "2022-08-25 07:35:11",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "image/icon/data-base.png",
+      "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
+      "details": "For these courses, you will use real developer tools and software including VS Code, PostgreSQL, and the Linux / Unix command line to complete interactive tutorials and build projects. These courses start off with basic Bash commands. Using the terminal, you will learn everything from navigating and manipulating a file system, scripting in Bash, all the way to advanced usage. Next, you will learn how to create and use a relational database with PostgreSQL, a database management system, and SQL, the language of these databases. Finally, you will learn Git, the version control system, an essential tool of every developer.",
+      "topic":[
+        {
+          "topic_title": "Learn Bash by Building a Boilerplate",
+          "topic_details": ["The terminal allows you to send text commands to your computer that can manipulate the file system, run programs, automate tasks, and much more. In this 170-lesson course, you will learn terminal commands by creating a website boilerplate using only the command line."]
+        },
+        {
+          "topic_title": "Learn Relational Databases by Building a Mario Database",
+          "topic_details": ["A relational database organizes data into tables that are linked together through relationships. In this 165-lesson course, you will learn the basics of a relational database by creating a PostgreSQL database filled with video game characters."]
+        },
+        {
+          "topic_title": "Celestial Bodies Database",
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you will build a database of celestial bodies using PostgreSQL."]
+        },
+        {
+          "topic_title": "Learn Bash Scripting by Building Five Programs",
+          "topic_details": ["Bash scripts combine terminal commands and logic into programs that can execute or automate tasks, and much more. In this 220-lesson course, you will learn more terminal commands and how to use them within Bash scripts by creating five small programs."]
+        },
+        {
+          "topic_title": "Learn SQL by Building a Student Database: Part 1",
+          "topic_details": ["SQL, or Structured Query Language, is the language for communicating with a relational database. In this 140-lesson course, you will create a Bash script that uses SQL to enter information about your computer science students into PostgreSQL."]
+        },
+        {
+          "topic_title": "Learn SQL by Building a Student Database: Part 2",
+          "topic_details": ["SQL join commands are used to combine information from multiple tables in a relational database In this 140-lesson course, you will complete your student database while diving deeper into SQL commands."]
+        },
+        {
+          "topic_title": "World Cup Database",
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you will create a Bash script that enters information from World Cup games into PostgreSQL, then query the database for useful statistics."]
+        },
+        {
+          "topic_title": "Learn Advanced Bash by Building a Kitty Ipsum Translator",
+          "topic_details": ["There's more to Bash commands than you might think. In this 140-lesson course, you will learn some more complex commands, and the details of how commands work."]
+        },
+        {
+          "topic_title": "Learn Bash and SQL by Building a Bike Rental Shop",
+          "topic_details": ["In this 210-lesson course, you will build an interactive Bash program that stores rental information for your bike rental shop using PostgreSQL."]
+        },
+        {
+          "topic_title": "Build a Salon Appointment Scheduler",
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you will create an interactive Bash program that uses PostgreSQL to track the customers and appointments for your salon."]
+        },
+        {
+          "topic_title": "Learn Nano by Building a Castle",
+          "topic_details": ["Nano is a program that allows you to edit files right in the terminal. In this 40-lesson course, you will learn how to edit files in the terminal with Nano while building a castle."]
+        },
+        {
+          "topic_title": "Learn Git by Building an SQL Reference Object",
+          "topic_details": ["Git is a version control system that keeps track of all the changes you make to your codebase. In this 240-lesson course, you will learn how Git keeps track of your code by creating an object containing commonly used SQL commands."]
+        },
+        {
+          "topic_title": "Build a Periodic Table Database",
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you will create Bash a script to get information about chemical elements from a periodic table database."]
+        },
+        {
+          "topic_title": "Build a Number Guessing Game",
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you will use Bash scripting, PostgreSQL, and Git to create a number guessing game that runs in the terminal and saves user information."]
+        }
+      ]
+    },
+    {
+      "_id": "919db97c34e0778b387dd40cdfa08130",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 89,
+      "title": "Back End Development and APIs",
+      "author": {
+        "name": "MarketScreener",
+        "published_date": "2022-08-30 18:05:42",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "image/icon/server.png",
+      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+      "details": "Until this point, you've only used JavaScript on the front end to add interactivity to a page, solve algorithm challenges, or build an SPA. But JavaScript can also be used on the back end, or server, to build entire web applications. Today, one of the popular ways to build applications is through microservices, which are small, modular applications that work together to form a larger whole. In the Back End Development and APIs Certification, you'll learn how to write back end apps with Node.js and npm. You'll also build web applications with the Express framework, and build a People Finder microservice with MongoDB and the Mongoose library.",
+      "topic": [
+        {
+          "topic_title": "Managing Packages with NPM",
+          "topic_details": ["npm (Node Package Manager), is a command line tool to install, create, and share packages of JavaScript code written for Node.js. There are many open source packages available on npm, so before starting a project, take some time to explore so you don't end up recreating the wheel for things like working with dates or fetching data from an API. In this course, you'll learn the basics of using npm, including how to work with the package.json and how to manage your installed dependencies."]
+        },
+        {
+          "topic_title": "Basic Node and Express",
+          "topic_details": ["Node.js is a JavaScript runtime that allows developers to write backend (server-side) programs in JavaScript. Node.js comes with a handful of built-in modules — small, independent programs — that help with this. Some of the core modules include HTTP, which acts like a server, and File System, a module to read and modify files. In the last set of courses you learned to install and manage packages from npm, which are collections of smaller modules. These packages can help you build larger, more complex applications. Express is a lightweight web application framework, and is one of the most popular packages on npm. Express makes it much easier to create a server and handle routing for your application, which handles things like directing people to the correct page when they visit a certain endpoint like /blog. In this course, you'll learn the basics of Node and Express including how to create a server, serve different files, and handle different requests from the browser."]
+        },
+        {
+          "topic_title": "MongoDB and Mongoose",
+          "topic_details": ["MongoDB is a database application that stores JSON documents (or records) that you can use in your application. Unlike SQL, another type of database, MongoDB is a non-relational or NoSQL database. This means MongoDB stores all associated data within one record, instead of storing it across many preset tables as in a SQL database. Mongoose is a popular npm package for interacting with MongoDB. With Mongoose, you can use plain JavaScript objects instead of JSON, which makes it easier to work with MongoDB. Also, it allows you to create blueprints for your documents called schemas, so you don't accidentally save the wrong type of data and cause bugs later. In the MongoDB and Mongoose courses, you'll learn the fundamentals of working with persistent data including how to set up a model, and save, delete, and find documents in the database."]
+        },
+        {
+          "topic_title": "Back End Development and APIs Projects",
+          "topic_details": ["You've worked with APIs before, but now that you know npm, Node, Express, MongoDB, and Mongoose, it's time to build your own. Draw on everything you've learned up to this point to create 5 different microservices, which are smaller applications that are limited in scope. After creating these, you'll have 5 cool microservice APIs you can show off to friends, family, and potential employers. Oh, and you'll have a shiny new Back End Development and APIs Certification, too."]
+        }
+      ]
+    },
+    {
+      "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 798,
+      "title": "Scientific Computing with Python (Beta)",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-25 18:45:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "image/icon/python.png",
+      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
+      "details": "The Scientific Computing with Python (Beta) curriculum will equip you with the skills to analyze and manipulate data using Python, a powerful and versatile programming language. You'll learn key concepts like data structures, algorithm, Object Oriented Programming, and how to perform complex calculations using a variety of tools. This comprehensive course will guide you through the fundamentals of scientific computing, including data structures, and algorithms.",
+      "topic": [
+        {
+          "topic_title": "Learn String Manipulation by Building a Cipher",
+          "topic_details": ["Python is a powerful and popular programming language widely used for data science, data visualization, web development, game development, machine learning and more. In this project, you'll learn fundamental programming concepts in Python, such as variables, functions, loops, and conditional statements. You'll use these to code your first programs."]
+        },
+        {
+          "topic_title": "Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm",
+          "topic_details": ["The Luhn Algorithm is widely used for error-checking in various applications, such as verifying credit card numbers. By building this project, you'll gain experience working with numerical computations and string manipulation."]
+        },
+        {
+          "topic_title": "Learn Lambda Functions by Building an Expense Tracker",
+          "topic_details": ["Lambda functions give you a concise way to write small, throwaway functions in your code. In this project, you'll explore the power of Lambda Functions by creating an expense tracker. Your resulting app will demonstrate how you can use Lambda Functions for efficient, streamlined operations."]
+        },
+        {
+          "topic_title": "Learn Python List Comprehension by Building a Case Converter Program",
+          "topic_details": ["List Comprehension is a way to construct a new Python list from an iterable types: lists, tuples, and strings. All without using a for loop or the `.append()` list method. In this project, you'll write a program that takes a string formatted in Camel Case or Pascal Case, then converts it into Snake Case. The project has two phases: first you'll use a for loop to implement the program. Then you'll learn how to use List Comprehension instead of a loop to achieve the same results."]
+        },
+        {
+          "topic_title": "Learn Regular Expressions by Building a Password Generator",
+          "topic_details": ["A Python module is a file that contains a set of statements and definitions that you can use in your code. In this project, you'll learn how to import modules from the Python standard library. You'll also learn how to use Regular Expressions by building your own password generator program."]
+        },
+        {
+          "topic_title": "Learn Algorithm Design by Building a Shortest Path Algorithm",
+          "topic_details": ["Algorithms are step-by-step procedures that developers use to perform calculations and solve computational problems. In this project, you'll learn how to use functions, loops, conditional statements, and dictionary comprehensions to implement a Shortest Path algorithm."]
+        },
+        {
+          "topic_title": "Learn Recursion by Solving the Tower of Hanoi Puzzle",
+          "topic_details": ["Recursion is a programming approach that allows you to solve complicated computational problems with just a little code. In this project, you'll start with a loop-based approach to solving the tower of Hanoi mathematical puzzle. Then you'll learn how to implement a recursive solution."]
+        },
+        {
+          "topic_title": "Learn Data Structures by Building the Merge Sort Algorithm",
+          "topic_details": ["The Merge Sort Algorithm is a sorting algorithm based on the divide and conquer principle. In this project, you'll learn how to interact with data structures by sorting a list of random numbers using the Merge Sort Algorithm."]
+        },
+        {
+          "topic_title": "Learn Classes and Objects by Building a Sudoku Solver",
+          "topic_details": ["Classes and objects are important programming concepts. These Object-Oriented Programming tools help developers to achieve code modularity, abstraction, and readability. And they promote reusability. In this Sudoku Solver project, you'll learn how to use classes and objects to build a Sudoku grid and to solve a Sudoku puzzle."]
+        },
+        {
+          "topic_title": "Learn Tree Traversal by Building a Binary Search Tree",
+          "topic_details": ["A Binary Search Tree (BST) is an common data structure where data is sorted hierarchically. In this project, you'll learn how to construct your own BST and perform an in-order traversal. You'll also learn key operations like insertion, search, and deletion."]
+        },
+        {
+          "topic_title": "Scientific Computing with Python Projects",
+          "topic_details": ["It's time to put your Python skills to the test. By completing these projects, you'll demonstrate that you have a strong foundational knowledge of Python. And you'll qualify for freeCodeCamp's Scientific Computing with Python Certification."]
+        }
+      ]
+    },
+    {
+      "_id": "be44c843d61859cc0b87cae85c55f9db",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 231,
+      "title": "Data Analysis with Python",
+      "author": {
+        "name": "Kumar Natasha",
+        "published_date": "2022-08-26 12:15:36",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "image/icon/data-analisys.png",
+      "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
+      "details": "Data Analysis has been around for a long time. But up until a few years ago, developers practiced it using expensive, closed-source tools like Tableau. But recently, Python, SQL, and other open libraries have changed Data Analysis forever. In the Data Analysis with Python Certification, you'll learn the fundamentals of data analysis with Python. By the end of this certification, you'll know how to read data from sources like CSVs and SQL, and how to use libraries like Numpy, Pandas, Matplotlib, and Seaborn to process and visualize data. In these comprehensive video courses, created by Santiago Basulto, you will learn the whole process of data analysis. You'll be reading data from multiple sources (CSV, SQL, Excel), process that data using NumPy and Pandas, and visualize it using Matplotlib and Seaborn, Additionally, we've included a thorough Jupyter Notebook course, and a quick Python reference to refresh your programming skills.",
+      "topic": [
+        {
+          "topic_title": "Introduction to Data Analysis",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Data Analysis Example A",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Data Analysis Example B",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "How to use Jupyter Notebooks Intro",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Jupyter Notebooks Cells",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Jupyter Notebooks Importing and Exporting Data",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Numpy Introduction A",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Numpy Introduction B",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Numpy Arrays",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Numpy Operations",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Numpy Boolean Arrays",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Numpy Algebra and Size",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Pandas Introduction",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Pandas Indexing and Conditional Selection",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Pandas DataFrames",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Pandas Conditional Selection and Modifying DataFrames",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Pandas Creating Columns",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Data Cleaning Introduction",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Data Cleaning with DataFrames",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Data Cleaning Duplicates",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "Data Cleaning and Visualizations",
+          "topic_details": ["No details"]
+        }
+      ]
+    },
+    {
+      "_id": "1b03149c50f1bec662062d930bf46489",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "2",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 546,
+      "title": "Advanced Google Tag Manager Browser and Server side Tracking Mastery",
+      "author": {
+        "name": "The Philadelphia Inquirer",
+        "published_date": "2022-08-30 22:00:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "This course will cover everything you need to know to start using Google Tag Manager with confidence. Step by step I take you through various features of Google Tag Manager and show you how you can implement various Tags. You will go from not knowing anything about Google Tag Manager and Data Layers to mastering them and using them with confidence. I take a personal interest in your success so if get stuck or want something that is not covered in the course then feel free to reach out to me. Everything you need to know to begin using Google Tag Manager confidently will be covered in this course. I walk you through all of Google Tag Manager's capabilities step-by-step and demonstrate how to use different Tags.",
+      "topic": [
+        {
+          "topic_title": "Course Intro.mp4",
+          "topic_details": ["No details"]
+        },
+        {
+          "topic_title": "What is Google Tag Manager & How it works?.mp4",
+          "topic_details": ["This video explains what Google Tech Manager is, and how it works. What are the benefits of this to me and why do we need it in our business? All these topics are discussed in detail in this video."]
+        },
+        {
+          "topic_title": "Why need google tag manager and benefits?",
+          "topic_details": ["This video explains why we need Google Tag Manager. What is the benefit for each of our businesses? These things we have discussed step by step through this video."]
+        },
+        {
+          "topic_title": "Difference between google ag manager & google analytics.",
+          "topic_details": ["What is the difference between Google Tag Manager and Google Analytics in this election? Google Tag Manager is a marketing tag management and Google Analytics is a reporting platform discussed in detail."]
+        },
+        {
+          "topic_title": "How to create google tag manager account?",
+          "topic_details": ["This lesson explains how to create a Google Tag Manager account."]
+        },
+        {
+          "topic_title": "Account structure of google tag manager.",
+          "topic_details": ["This explains the full account structure of Google Tag Manager, where is Google Tag Manager, what are the tags, and the total items are given here."]
+        },
+        {
+          "topic_title": "Google tag manager account dashboard overview.",
+          "topic_details": ["This video explains the Google Tag Manager Dashboard Overview. Overview of Google Tag Manager Dashboard What's in Tag Trigger Video Ball Template Everything is fully shown in this video."]
+        },
+        {
+          "topic_title": "How to access google tag manager?",
+          "topic_details": ["This video explains how to give access to Google Tech Manager, how to take access from the client, how to remove access, total issues are discussed in detail in this video."]
+        },
+        {
+          "topic_title": "Components of google tag manager (Tags, Triggers & Variables).",
+          "topic_details": ["This video explains Google Tag Manager What are tags, triggers, and variables, how do these things work, and why do we need to learn these things? Total is discussed in detail in this video."]
+        },
+        {
+          "topic_title": "Introduction to GTM built-in and user defined variables.",
+          "topic_details": ["This lesson explains what are built-in variables and user-defined variables in Google Tag Manager."]
+        },
+        {
+          "topic_title": "How to install google tag manager on a shopify website?",
+          "topic_details": ["In this video, it is explained how to install Google Tag Manager on the Shopify website, and the total processes are discussed."]
+        },
+        {
+          "topic_title": "How to install google tag manager on a wordpress website?",
+          "topic_details": ["This video shows how to install Google Tag Manager on a WordPress website with total steps shown step by step."]
+        },
+        {
+          "topic_title": "Introduction to Data Layer in GTM for dynamic parameters",
+          "topic_details": ["This video explains what the data layer of Google Tag Manager is and how it works on the website."]
+        },
+        {
+          "topic_title": "Install data layer Wordpress Ecommerce website.",
+          "topic_details": ["This video shows how to install the data layer of a WordPress Ecommerce website, the total process is shown step by step."]
+        },
+        {
+          "topic_title": "Install data layer Shopify Ecommerce Website.",
+          "topic_details": ["This video shows how to properly install Data Layer and Google Tag Manager on a Shopify website."]
+        },
+        {
+          "topic_title": "Make Wordpress Ecommerce Website for practice.",
+          "topic_details": ["This video shows you how to create a WordPress Woocommerce website for free to practice the Google Tag Manager course."]
+        },
+        {
+          "topic_title": "Make Shopify Ecommerce Website For practice.",
+          "topic_details": ["This video shows you how to create a Shopify website for free to practice the Google Tag Manager course."]
+        },
+        {
+          "topic_title": "Google Ads conversion with purchase value (dynamic) tracking.",
+          "topic_details": ["The video explains how to set up Google Ads conversion tracking with a dynamic value data layer with the total process explained step by step."]
+        },
+        {
+          "topic_title": "Google Ads Enhanced conversion with purchase value tracking.",
+          "topic_details": ["This video explains how to do Google ads enhanced conversion Purchase Tracking through Google Tag Manager, the total topic is explained step by step."]
+        },
+        {
+          "topic_title": "Google Ads Enhanced conversion with Checkout value tracking.",
+          "topic_details": ["This video explains how to do Google Ads Enhanced Conversion with Checkout value tracking-through Google Tag manager, the total topic is explained step by step."]
+        },
+        {
+          "topic_title": "Google ads enhanced conversion with add to cart value tracking.",
+          "topic_details": ["This video explains how to do Google Ads Enhanced Conversion with add-to-cart value tracking through Google Tag Manager, the total topic is explained step by step."]
+        },
+        {
+          "topic_title": "Google ads call conversion tracking for website.",
+          "topic_details": ["This video explains how to do Google Ads Call Conversion Tracking for Website through Google Tag Manager, the total topic is explained step by step."]
+        }
+      ]
+    },
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "6",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_view": 354,
+      "title": "Optimize Your Selling Plan For Freelancing",
+      "author": {
+        "name": "Arman Ahmed Shafin",
+        "published_date": "2022-08-30 17:44:16",
+        "img": "https://instructory-s3-storage-live.s3.brilliant.com.bd/profile_photos/Xc75mUW6441N57AeILkDnJWObCobLfnEL70zOnJ4.jpeg"
+      },
+      "thumbnail_url": "https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png",
+      "image_url": null,
+      "details": "Work with companies or specific clients on your own rather than depending on the marketplace. This course is only for those who are already proficient in one of the subjects. For those of you who want to advance your freelancing career outside the marketplace and want to convert your skills into a business, this course will be the best of the best. In this course you will get all updated techniques of Fiverr and Upwork as a bonus.",
+      "topic":[
+        {
+          "topic_title": "Intro Lesson",
+          "topic_details": ["Course and Instructor Introduction","Course Outline","Course For","What is Cold Email?","Cold Email vs Cold Message"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png"]
+        },
+        {
+          "topic_title": "Section-01",
+          "topic_details": ["Support System for Students","Goal Setting for Direct Clients Hunting","How to start a journey with Clients Hunting?"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png"]
+        },
+        {
+          "topic_title": "Section-02",
+          "topic_details": ["Clients Research (Wrong Way)","Clients Research (Right Way)"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png"]
+        },
+        {
+          "topic_title": "Section-03",
+          "topic_details": ["Client's Lead Collect-01","Client's Lead Collect-02","Client's Lead Collect-03","Client's Lead Collect-04","Client's Lead Collect-05","Cold Mail Subject Writing with AI (Live)","Lead Collection-Live class"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png"]
+        },
+        {
+          "topic_title": "Linkedin Cold Message, Job Research and Lead Collection",
+          "topic_details": ["Linkedin SEO, Client Cold Message and Job Research","Linkedin SEO, Client Cold Message and Job Research-2"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png"]
+        },
+        {
+          "topic_title": "Case Study",
+          "topic_details": ["Offer Creation, Cold Mail writing and Research-live"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png"]
+        },
+        {
+          "topic_title": "Bonus Live",
+          "topic_details": ["Client Find (Linkedin-Live)","Facebook Client Finding","How to create a live portfolio website part-1","How to create a live portfolio website part-2","AI-Discussion with Instructory Students"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png"]
+        },
+        {
+          "topic_title": "Bonus for newbie",
+          "topic_details": ["Earning Tips-01","Earning Tips-02","Earning Tips-03","Earning tips-04","Earning Tips-05","Earning Secret (6.1)","Earning Secret (6.2)"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png","https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/655105fa65cfc.png"]
+        }
+      ]
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "5",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "Zero to Pro Motion Graphics Design and Animation",
+      "author": {
+        "name": "Mahbubur Rahman Himel",
+        "published_date": "2022-08-26 00:37:24",
+        "img": "https://instructory-s3-storage-live.s3.brilliant.com.bd/profile_photos/wWS6NYnBK7aNqvw21NxZhO90AcuzcAPc9upqVbdV.jpeg"
+      },
+      "thumbnail_url": "https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/649074fd77fd5.png",
+      "image_url": null,
+      "details": "What is motion graphics? Motion graphics is a type of animation that transforms static designs into moving pictures. The animations are typically in two- or three-dimensional format and sometimes have sound. A motion graphics designer works with animation, audio, and visual effects to create moving content and graphics for various media, such as television, the internet, and film. Motion graphic designers work with creative teams to incorporate design elements into a project. Learning motion graphics and animation is an immensely rewarding endeavour with numerous benefits. In today's digital age, these skills have become increasingly valuable and sought after in various industries. Download all Relovent Applications for Motion graphics Design Here: www.himelbme.com Let's Get Started.",
+      "topic":[
+        {
+          "topic_title": "Course Overview",
+          "topic_details": ["01 - Course Overview - Motion Graphic and Animation.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/BcH2KyOOO5fzDBJZNnhWEw86HJBQQBtz07bHiuyp.jpeg"]
+        },
+        {
+          "topic_title": "Free Lesson",
+          "topic_details": ["Free Class 01 - Photoshop - Motion Graphic and Animation .mp4","Free Class 02 - Logo Animation - Motion Graphic and Animation.mp4","Free Class 03 - Shape Modify AE - Motion Graphic and Animation.mp4","মোশন গ্রাফিক্স ফ্রি ক্লাস | Logo Animation in After Effects"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/9DthKwzFzF9Q4Agkr47uYxdSdstcQdFYHIoimhe1.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/pfICJcNMtvyxGgipWKyZ5z3YPNAIZZsRiRqgLsSA.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/SZGKEkIs47DRDYVTOyxyaudxzk9qNPr0fprKBJ8f.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/POc9KiWTxud32XKBimzR9HDw6hIPTlMby0BSi0EV.png"]
+        },
+        {
+          "topic_title": "All About Adobe Photoshop",
+          "topic_details": ["01 - How to install PS 2023 - Motion Graphic and Animation.mp4","02 - New page and workspace - Motion Graphic and Animation.mp4","03 - PS Tools 1 -Motion Graphic and Animation .mp4","04 - PS Tools 2 Motion Graphic and Animation.mp4","05 - PS Tools 3 - Motion Graphic and Animation .mp4","06 - PS Tools 4 - Motion Graphic and Animation.mp4","07 - Social Media Banner Travel Design - Motion Graphic and Animation.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/2sWHVhAyW9B5P9nFl0tKpea3EAagoBsGZJ8mpgtP.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/62q0D5qmKs2yEZ7lvABvieQ5JE9VY3VATNgrGEyr.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/f6YaobIpxvEbcXtcxtmvZ02PoI0FOHFihiVcXZA8.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/zgO7tPBrXMag9dt3QjO49lQfpYrwzpbQrhCwzEvb.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/CJsB9lok2tF4Vb2pIDzZMWxHmNq3DBZRP9L5MOC8.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/z6RsU31JMsBWvF2mqpoxLbFSj9JRBFUztUUF7u5q.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/mjXolPSEulb2KC21oJq3LVAkYPcZBxBGHLfTRWUv.jpeg"]
+        },
+        {
+          "topic_title": "All About Adobe Illustrator",
+          "topic_details": ["01 - Installing Illustrator - Motion Graphic and Animation.mp4","02 - Get started with Illustrator - Motion Graphic and Animation.mp4","03 - Design a Landscape Background - Motion Graphic and Animation.mp4","04 - Edit Vector Template -Motion Graphic and Animation.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/EFjixsAeknDz5yFa3oBrp9YIcwfOuwQSQS2Ek9AF.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/97wolGapduVseoRmEMsoxc1p0tPgyl21IoknNIBn.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/9VtXPrB1VcyVFjSp97y2HpXg0XJhukzDBbLI9i32.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/L5tuplILaV6yIXXT1Zro8KUYGauENoqCxmMVUZlJ.jpeg"]
+        },
+        {
+          "topic_title": "Adobe After Effects Part",
+          "topic_details": ["01 - After Effects Installing -Motion Graphic and Animation.mp4","02 - Principles of Motion Design -Motion Graphic and Animation.mp4","02-1 - Principles of Motion Design -Motion Graphic and Animation.mp4","03 - Create & Save New Project -Motion Graphic and Animation.mp4","04 - Position Animation with keyframe -Motion Graphic and Animation.mp4","05 - Shape Modify Presets -Motion Graphic and Animation.mp4","06 - Animation with Graph Editor -Motion Graphic and Animation.mp4","07 - Lower Third Design and Animation -Motion Graphic and Animation.mp4","08 - Manual Text Animation 1 -Motion Graphic and Animation.mp4","09 - Manual Text Animation 2 -Motion Graphic and Animation.mp4","10 - Manual Text Animation 3 -Motion Graphic and Animation.mp4","11 - Import PSD file & Animation -Motion Graphic and Animation.mp4","12 - Import PSD file & Animation -Motion Graphic and Animation.mp4","13 - Import PSD file & Animation -Motion Graphic and Animation.mp4","14 - Import PSD file & Animation -Motion Graphic and Animation.mp4","15 - Import Ai file & Animation -Motion Graphic and Animation.mp4","16 - Social Media Design in After Effects -Motion Graphic and Animation.mp4","17 - Social Media Animation in After Effects -Motion Graphic and Animation.mp4","18 - Custom Logo Animation 1 -Motion Graphic and Animation.mp4","19 - 3D Logo Animation 1 -Motion Graphic and Animation.mp4","20 - Text Animation with Saber Plugin logo - Motion Graphic and Animation.mp4","21 - Logo Animaion with Saber Plugin -Motion Graphic and Animation.mp4","22 - Animation Composer plugin -Motion Graphic and Animation.mp4","23 - Intro Animation with Composer plugin -Motion Graphic and Animation.mp4","24 - Shape Morphing - Motion Graphic and Animation.mp4","25 - Most Important 7 Expression -Motion Graphic and Animation.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/kWErUpgEPKlYaZQ6UPiEjkRkKY0mMrQXFbSyZJHg.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/vsWDCi1qY4jv2NDz30UJl3RgvRfcvgz84V3Im01P.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/a27ATd4vXNUbwDacBIpGSaV5mcKG6x4O3rjuxhTp.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/XMHeeTz6MxbaYY7gSVmqT0Tp9fk5atRvJD07wl1K.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/Ol4TP3JeGEYNP30y5NZlFqj9ReVzeACa6XjPPEbN.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/NjX1gXqH87yEWnLzuCkQmxrGEcomwSOlR9HkCadU.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/lJuB1bpsXk7ebIBva5ejDY7iBhl1tC7roAp2jVvB.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/uSqxje3watQzVWlYv4ow184zRfLIjHMA4eEYAGSn.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/YiEO227O4OST2KLE6V34FOL74iCjY02oT9A4eD5n.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/fbw1p1fETkE8zk3T5J1ruikg5UfZ3xXvQyZqrC2f.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/O2UXxrtHaBrmSCSkiE4oz2w8fevQm4jHxGO35fts.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/juyQZ0eyZJ9RdJmLbqIWKGscspiPuM7jFDh4iWHK.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/0KVTIS6ljuaYohVXPD1NdkKs1M2aJ5JDqGoLUmBv.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/BLDjlfkK7RLLk44txPO8eBeoOCzLEkl6Bn9P8TCD.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/TqWcHKg3fd5A6tVjBco82BhYT67xyzY7H7C0M3pp.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/um8KvpgReH4prKJcgbfwrdxBCyz0u7yJ7udmS90H.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/jdmLLsEbQeCDnjwWh37tj9JowThWwTVecnzMUocZ.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/NeaXj519aoGB3g2nPRfs9NPNH7CJpfdiuwacB5f7.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/D992BN8h1OCsFEemD2JEQIgSq4Ts2TDK2CNtWFYB.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/2jytXIODEMhfDHBGdEBfiENuRr9ziug9q1diIbJ4.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/hsDM7urq2mTA7JQGsEdGRX6ChAII0gFbFhnyEhbP.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/xZKkXVBanWXRZALdCENqzuuu9wtaqrrJo8Xwh0mi.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/UoD7wMgkSCcLVleBXDeih5z6chkb9xoucSzyAjBE.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/wBn5JW4MLyHpvgS05IJYW2TBfdM5wAvqebtsZUhJ.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/pnWscUvTcMEpRfdK3ZUwpifBPTV5y0QRz52GSCLb.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/pYgkqOd53cb6YUWBTiks0gxD41hJVPcBUgiHh1P7.jpeg"]
+        },
+        {
+          "topic_title": "Adobe Premiere Pro",
+          "topic_details": ["01 - Adobe Premier Pro CC 2023 Installation -Motion Graphic and Animation.mp4","02 - Create project Setup & Import Media - Motion Graphic and Animation.mp4","03 - Green Screen Editing - Motion Graphic and Animation.mp4","04 - Export Media in MP4 File - Motion Graphic and Animation.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/rmuKtQsRdDFYrPGz1GROpE0XJ69UWEUh89IgoHFu.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/2onSsAFBVKln9VQKkKgM6PveiInjDEoRtuz3FqNN.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/dognHpF0OGCNg0n0k2GGBoqCSIFyS97bI5edh2wI.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/Ou1SBHfCauaxUiwqzVwQljGQ0KFbG1H21vb1CYCs.jpeg"]
+        },
+        {
+          "topic_title": "Professional Portfolio & Marketplace",
+          "topic_details": ["01 - Build Your Personal Free Website and Portfolio","02 -  How To upload Motion Project on Behance Portfolio","03- Fiverr Details Class","04 - Fiverr Gig Research & New GIG Creation.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/R2GF6JpIQy2NgUrKAxVZPhcogSmDHoq6ZnFHGMP7.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/7CjCHf77ptfG58npOAHYwtaO4skhM2q3rVXhwdE9.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/7CjCHf77ptfG58npOAHYwtaO4skhM2q3rVXhwdE9.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/oV5DdrG1YgyjOSIXCS7aXFZQZgoAoMetfcGHSFgo.jpeg"]
+        },
+        {
+          "topic_title": "Remote Job Search in LinkedIN",
+          "topic_details": ["01 - Professional LinkedIn Profile কীভাবে LinkedIn Profile সাজাবেন","02 - Professional LinkedIn Profile কীভাবে LinkedIn Profile সাজাবেন","03 - Local Client Proposal for Graphic and Motion.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/4kdEzlywDCz7jVDa5Nw4ietz6RfbcHI6OwJgqfb8.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/4kdEzlywDCz7jVDa5Nw4ietz6RfbcHI6OwJgqfb8.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/4kdEzlywDCz7jVDa5Nw4ietz6RfbcHI6OwJgqfb8.jpeg"]
+        },
+        {
+          "topic_title": "Live Clients Works",
+          "topic_details": ["01 - Fiverr Clients Live Work for Logo Animation & Delivery .mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/aY7I7GAc8saxPWT2Qg3WOcIwITEjsaZCpyphNve9.jpeg"]
+        },
+        {
+          "topic_title": "Extra Lesson",
+          "topic_details": ["01 - Extra Lesson - Motion Graphic and Animation.mp4","02 - Extra Lesson - Motion Graphic and Animation.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/aY7I7GAc8saxPWT2Qg3WOcIwITEjsaZCpyphNve9.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/aY7I7GAc8saxPWT2Qg3WOcIwITEjsaZCpyphNve9.jpeg"]
+        },
+        {
+          "topic_title": "Explainer Project \"Bonus Lesson\"",
+          "topic_details": ["01 - Explainer Video Project- Motion Graphic and Animation.mp4","02 - Explainer Video Project- Motion Graphic and Animation.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/Nun3p2GR7j1Nape3PxYT6WKapz3LrY6X6SQ95vdB.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/mJNqGRPIz8FHrpqnIaid6khstEu11zC03LFmikia.jpeg"]
+        },
+        {
+          "topic_title": "Practice Assignment",
+          "topic_details": ["01 - Practice Work - Motion Graphic and Animation.mp4","02 - Practice Work - Motion Graphic and Animation.mp4","03 - Practice Work - Motion Graphic and Animation.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/mJNqGRPIz8FHrpqnIaid6khstEu11zC03LFmikia.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/mJNqGRPIz8FHrpqnIaid6khstEu11zC03LFmikia.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/mJNqGRPIz8FHrpqnIaid6khstEu11zC03LFmikia.jpeg"]
+        }
+      ]
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "4",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "Exclusive English Course ( Grammar , Written & Spoken)",
+      "author": {
+        "name": "Hussna jalal Ruthila",
+        "published_date": "2022-08-26 00:37:24",
+        "img": "https://instructory-s3-storage-live.s3.brilliant.com.bd/profile_photos/fG3scl60zrCTOce4G4WpcQbZpQCQYeRW6PDVrUqU.jpeg"
+      },
+      "thumbnail_url": "https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/60ed5d7143355.png",
+      "image_url": null,
+      "details": "This Exclusive English course is entirely designed to develop one's English skill in every way. Whether its grammar's purpose or writing or speaking. Everything is covered exclusively that will help every learner's to learn effectively . The purpose of this course is to make the learner an effective speaker, creative writer and also a master in grammar.",
+      "topic":[
+        {
+          "topic_title": "Course Introduction",
+          "topic_details": ["Course Teaser"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/rPfmY4pGKuB6ngNMbhH3IEnCdRHDmGYxiUFxQovA.jpeg"]
+        },
+        {
+          "topic_title": "Course Overview",
+          "topic_details": ["Course Overview"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Basic Building Blocks",
+          "topic_details": ["1. Basic Building Blocks", "2. More about Subjects and Verbs"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Fragments",
+          "topic_details": ["3. Fragments","4. Dependent Word Fragments","5. “Ing” and “To” fragments","6. Added - detail fragments","7. Missing-Subject Fragments"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Run - ons and its forms",
+          "topic_details": ["8. Run-ons"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Forms of Tenses",
+          "topic_details": ["9. Forms of Tenses","10. Present Tense and its aspects","11. Past tense and its aspects","12. Future tense and its aspects"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Regular and Irregular Verbs",
+          "topic_details": ["13. Regular and Irregular verbs","14. Non-standard form of irregular verbs"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Additional Information about Verbs",
+          "topic_details": ["15 . Subject-verb agreement","16. Additional info about verbs"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Pronoun types",
+          "topic_details": ["17. Pronoun types","19. Possessive pronouns","18. Subject and object pronoun","20. Demonstrative pronoun"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Grammar Mechanics",
+          "topic_details": ["21.Capital Letters","22. Numbers","23. Abbreviations"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Confused Words",
+          "topic_details": ["24. Homonyms","25. Frequently Confused words"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Effective Word Choice",
+          "topic_details": ["26. Effective word choice","27. Slang expressions","28. Popular slang words","29. Cliché","30. Pretentious words"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Adjectives and Adverbs",
+          "topic_details": ["31. Adjectives","32. Adverbs"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "An Introduction to Writing",
+          "topic_details": ["1. An Introduction to Writing","2. Writing as a skill"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Difference between Writing and Speaking",
+          "topic_details": ["3. Difference between Writing and Speaking"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Point and Support",
+          "topic_details": ["4. Point and Support", "5. Practices of point and support"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Writing Mechanics",
+          "topic_details": ["6. Parts of a Writing Piece","7. Traditional vs. Free-form Writing","8. Writing as a Process of Discovery"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "The Writing Process",
+          "topic_details": ["9. The writing process","10. Prewriting","11. Freewriting","12. Questioning","13. Making A List","14. Clustering","15. Preparing a Scratch Outline"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "First Draft",
+          "topic_details": ["16. Writing a First Draft"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Revising",
+          "topic_details": ["17. Revising","18. Three stages to revising process"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        },
+        {
+          "topic_title": "Editing and Proofreading",
+          "topic_details": ["19. Hints about Editing and Proofreading"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/users/Ruthila/courses/502/lessons/351180709.jpg"]
+        }
+      ]
+    }
+  ]

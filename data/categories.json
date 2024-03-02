@@ -1,0 +1,30 @@
+[
+    {
+        "id": "0",
+        "name": "All Courses"
+    },
+    {
+        "id": "1",
+        "name": "Programming & tech"
+    },
+    {
+        "id": "2",
+        "name": "SEO & Digital Marketing"
+    },
+    {
+        "id": "3",
+        "name": "Graphics design"
+    },
+    {
+        "id": "4",
+        "name": "Academic & Fundamentals"
+    },
+    {
+        "id": "5",
+        "name": "Video Editing"
+    },
+    {
+        "id": "6",
+        "name": "Marketplace"
+    }
+]

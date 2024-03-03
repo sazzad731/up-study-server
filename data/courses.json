@@ -20,83 +20,103 @@
       "topic": [
         {
           "topic_title": "Learn HTML by Building a Cat Photo App",
-          "topic_details": ["HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.In this course, you'll learn the most common HTML tags by building your own cat photo app."]
+          "topic_details": ["HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.In this course, you'll learn the most common HTML tags by building your own cat photo app."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Basic CSS by Building a Cafe Menu",
-          "topic_details": ["CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.In this course, you'll learn CSS by designing a menu page for a cafe webpage."]
+          "topic_details": ["CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.In this course, you'll learn CSS by designing a menu page for a cafe webpage."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn CSS Colors by Building a Set of Colored Markers",
-          "topic_details": ["Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.In this course, you'll build a set of colored markers. You'll learn different ways to set color values and how to pair colors with each other."]
+          "topic_details": ["Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.In this course, you'll build a set of colored markers. You'll learn different ways to set color values and how to pair colors with each other."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn HTML Forms by Building a Registration Form",
-          "topic_details": ["You can use HTML forms to collect information from people who visit your webpage.In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page."]
+          "topic_details": ["You can use HTML forms to collect information from people who visit your webpage.In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Survey Form",
-          "topic_details": ["This is one of the required projects to earn your certification.For this project, you will build a survey form to collect data from your users"]
+          "topic_details": ["This is one of the required projects to earn your certification.For this project, you will build a survey form to collect data from your users"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn the CSS Box Model by Building a Rothko Painting",
-          "topic_details": ["Every HTML element is its own box – with its own spacing and a border. This is called the Box Model.In this course, you'll use CSS and the Box Model to create your own Rothko-style rectangular art pieces."]
+          "topic_details": ["Every HTML element is its own box – with its own spacing and a border. This is called the Box Model.In this course, you'll use CSS and the Box Model to create your own Rothko-style rectangular art pieces."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn CSS Flexbox by Building a Photo Gallery",
-          "topic_details":[ "Flexbox helps you design your webpage so that it looks good on any screen size.In this course, you'll use Flexbox to build a responsive photo gallery webpage."]
+          "topic_details":[ "Flexbox helps you design your webpage so that it looks good on any screen size.In this course, you'll use Flexbox to build a responsive photo gallery webpage."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Typography by Building a Nutrition Label",
-          "topic_details": ["Typography is the art of styling your text to be easily readable and suit its purpose.In this course, you'll use typography to build a nutrition label webpage. You'll learn how to style text, adjust line height, and position your text using CSS."]
+          "topic_details": ["Typography is the art of styling your text to be easily readable and suit its purpose.In this course, you'll use typography to build a nutrition label webpage. You'll learn how to style text, adjust line height, and position your text using CSS."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Accessibility by Building a Quiz",
-          "topic_details": ["Accessibility is making your webpage easy for all people to use – even people with disabilities.In this course, you'll build a quiz webpage. You'll learn accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices."]
+          "topic_details": ["Accessibility is making your webpage easy for all people to use – even people with disabilities.In this course, you'll build a quiz webpage. You'll learn accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Tribute Page",
-          "topic_details": ["Certification Project This is one of the required projects to earn your certification. For this project, you will build a tribute page for a subject of your choosing, fictional or real."]
+          "topic_details": ["Certification Project This is one of the required projects to earn your certification. For this project, you will build a tribute page for a subject of your choosing, fictional or real."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn More About CSS Pseudo Selectors by Building A Balance Sheet",
-          "topic_details": ["You can use CSS pseudo selectors to change specific HTML elements. In this course, you'll build a balance sheet using pseudo selectors. You'll learn how to change the style of an element when you hover over it with your mouse, and trigger other events on your webpage."]
+          "topic_details": ["You can use CSS pseudo selectors to change specific HTML elements. In this course, you'll build a balance sheet using pseudo selectors. You'll learn how to change the style of an element when you hover over it with your mouse, and trigger other events on your webpage."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Intermediate CSS by Building a Cat Painting",
-          "topic_details": ["Mastering CSS positioning is essential for creating visually appealing and responsive web layouts In this course, you will build a cat painting. You'll learn about how to work with absolute positioning, the z-index property, and the transform property."]
+          "topic_details": ["Mastering CSS positioning is essential for creating visually appealing and responsive web layouts In this course, you will build a cat painting. You'll learn about how to work with absolute positioning, the z-index property, and the transform property."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Responsive Web Design by Building a Piano",
-          "topic_details": ["Responsive Design tells your webpage how it should look on different-sized screens.In this course, you'll use CSS and Responsive Design to code a piano. You'll also learn more about media queries and pseudo selectors."]
+          "topic_details": ["Responsive Design tells your webpage how it should look on different-sized screens.In this course, you'll use CSS and Responsive Design to code a piano. You'll also learn more about media queries and pseudo selectors."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Technical Documentation Page",
-          "topic_details": ["This is one of the required projects to earn your certification. For this project, you will build a technical documentation page to serve as instruction or reference for a topic."]
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you will build a technical documentation page to serve as instruction or reference for a topic."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn CSS Variables by Building a City Skyline",
-          "topic_details": ["CSS variables help you organize your styles and reuse them.In this course, you'll build a city skyline. You'll learn how to configure CSS variables so you can reuse them whenever you want."]
+          "topic_details": ["CSS variables help you organize your styles and reuse them.In this course, you'll build a city skyline. You'll learn how to configure CSS variables so you can reuse them whenever you want."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn CSS Grid by Building a Magazine",
-          "topic_details": ["CSS Grid gives you control over the rows and columns of your webpage design.In this course, you'll build a magazine article. You'll learn how to use CSS Grid, including concepts like grid rows and grid columns."]
+          "topic_details": ["CSS Grid gives you control over the rows and columns of your webpage design.In this course, you'll build a magazine article. You'll learn how to use CSS Grid, including concepts like grid rows and grid columns."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Product Landing Page",
-          "topic_details": ["This is one of the required projects to earn your certification. For this project, you will build a product landing page to market a product of your choice."]
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you will build a product landing page to market a product of your choice."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn CSS Animation by Building a Ferris Wheel",
-          "topic_details": ["You can use CSS animation to draw attention to specific sections of your webpage and make it more engaging.In this course, you'll build a Ferris wheel. You'll learn how to use CSS to animate elements, transform them, and adjust their speed."]
+          "topic_details": ["You can use CSS animation to draw attention to specific sections of your webpage and make it more engaging.In this course, you'll build a Ferris wheel. You'll learn how to use CSS to animate elements, transform them, and adjust their speed."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn CSS Transforms by Building a Penguin",
-          "topic_details": ["You can transform HTML elements to create appealing designs that draw your reader's eye. You can use transforms to rotate elements, scale them, and more.In this course, you'll build a penguin. You'll use CSS transforms to position and resize the parts of your penguin, create a background, and animate your work."]
+          "topic_details": ["You can transform HTML elements to create appealing designs that draw your reader's eye. You can use transforms to rotate elements, scale them, and more.In this course, you'll build a penguin. You'll use CSS transforms to position and resize the parts of your penguin, create a background, and animate your work."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Personal Portfolio Webpage",
-          "topic_details": ["HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.In this course, you'll learn the most common HTML tags by building your own cat photo app."]
+          "topic_details": ["HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.In this course, you'll learn the most common HTML tags by building your own cat photo app."],
+          "topic_thumbnail": null
         }
       ]
     },
@@ -111,65 +131,78 @@
       "total_view": 488,
       "title": "Graphic Design Masterclass Intermediate: The NEXT Level",
       "author": {
-        "name": "Jimmy Dane",
+        "name": "Lindsay Marsh",
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "thumbnail_url": "https://img-c.udemycdn.com/course/750x422/1824130_66e3_3.jpg",
       "image_url": null,
       "details": "You will be able to create polished and practical Logo designs and brand assets. Be able to create images for a full digital marketing campaign, including Facebook and Instagram. Produce complex photo manipulations for the use of ad design and understand solid layout and design principles. Sketch logo design and concepts with ease and understand the golden ratio and how to incorporate that in your design process. Create and build a strong graphic design portfolio both in pdf and online. Understand some of the many ways of making money by selling creative content and resources. Understand how to use more intermediate tools in Adobe Illustrator and Photoshop. Study the Golden Ratio and create a graphic illustration with it. Go through the entire package design process for a chocolate bar wrapper. Create a typography only poster. Learn what makes compelling infographics and take boring data and make it come alive.Create a magazine front cover and article spread using InDesign and talk about more intermediate topics like using photos and headlines to help craft stories Work through the ENTIRE logo. Design process including how to present your work to clients, export files. Understand how to work with various print design projects Learn how to create mockups from photos you take! Learn The Basics of Adobe Dimensions to create stunning 3d Product Mockups! Learn Intermediate Design Theory Basics like Gestalt Theory to Elevate your Designs! Create a Poster using Movement and Depth In Design. Learn how much graphic designers make both salaried and freelance, and how to make more!",
       "topic": [
         {
           "topic_title": "Introduction - Downloadable Resources & Course Guide!",
-          "topic_details": ["Course Preview", "DOWNLOADABLE FILES! The Course Guide"]
+          "topic_details": ["Course Preview", "DOWNLOADABLE FILES! The Course Guide"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "NEW! Elevate Your Layouts with Gestalt Theory",
-          "topic_details": ["Section Introduction", "Gestalt Theory - Similarity, Proximity & Simplicity", "Gestalt Theory - Figure & Ground, Closure & Continuation", "Reviewing Strong Gestalt Examples", "Gestalt Theory in the Bookstore & Beyond", "Student Project"]
+          "topic_details": ["Section Introduction", "Gestalt Theory - Similarity, Proximity & Simplicity", "Gestalt Theory - Figure & Ground, Closure & Continuation", "Reviewing Strong Gestalt Examples", "Gestalt Theory in the Bookstore & Beyond", "Student Project"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Intermediate Photoshop Techniques",
-          "topic_details": ["Content Aware", "Content Aware and Perspective Warp", "More Challenging Object Removal Projects", "Building a Photo Composite", "Building a Photo Composite - Part 2"]
+          "topic_details": ["Content Aware", "Content Aware and Perspective Warp", "More Challenging Object Removal Projects", "Building a Photo Composite", "Building a Photo Composite - Part 2"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Fast Food Full Page Ad Design Project",
-          "topic_details": ["Project Setup", "Layout and Blocking", "Adding Text Effects - Flames and Water", "Photo Editing for Food Photos", "Exporting both Digital and Print - RGB and CMYK Conversion"]
+          "topic_details": ["Project Setup", "Layout and Blocking", "Adding Text Effects - Flames and Water", "Photo Editing for Food Photos", "Exporting both Digital and Print - RGB and CMYK Conversion"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Logo Design Section",
-          "topic_details": ["Characteristics of Solid Logo Designs"]
+          "topic_details": ["Characteristics of Solid Logo Designs"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "The Full Logo Design Process and Worksheet - Video Flux Project",
-          "topic_details": ["The Client Brief and Getting Started", "The Brainstorming and Sketching Process", "Vectorizing Assets", "Manually Adjusting Type", "Details and Typography", "Picking Your Final Concept", "Grid Work", "Picking Our Colors", "Adding Details and Extras", "Exporting Our Files", "STUDENT CHALLENGE and Examples!"]
+          "topic_details": ["The Client Brief and Getting Started", "The Brainstorming and Sketching Process", "Vectorizing Assets", "Manually Adjusting Type", "Details and Typography", "Picking Your Final Concept", "Grid Work", "Picking Our Colors", "Adding Details and Extras", "Exporting Our Files", "STUDENT CHALLENGE and Examples!"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "The Logo Presentation Template",
-          "topic_details": ["Guide to the Logo Presentation Template"]
+          "topic_details": ["Guide to the Logo Presentation Template"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Student Logo Design Challenge! The Golden Hop Brewery",
-          "topic_details": ["Local Brewery and Restaurant - Client Brief - The Golden Hop Brewery", "Student Project Review Video"]
+          "topic_details": ["Local Brewery and Restaurant - Client Brief - The Golden Hop Brewery", "Student Project Review Video"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "The Golden Ratio in Design",
-          "topic_details": ["What is the Golden Ratio?", "Golden Ratio Practice", "Golden Ratio Practice - Part 2"]
+          "topic_details": ["What is the Golden Ratio?", "Golden Ratio Practice", "Golden Ratio Practice - Part 2"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Logo Design Student Project - Optional",
-          "topic_details": ["Option 1: Dog Love - Logo Design Challenge and Client Brief"]
+          "topic_details": ["Option 1: Dog Love - Logo Design Challenge and Client Brief"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "NEW! How Much Can Graphic Designers Make & How to Make More!",
-          "topic_details": ["How Much Can You Make Working A Salaried Position?", "How Much Can You Make Freelancing?", "Logo Design from $10 - $10,000 A long Journey", "How To Level Up to Make More Money"]
+          "topic_details": ["How Much Can You Make Working A Salaried Position?", "How Much Can You Make Freelancing?", "Logo Design from $10 - $10,000 A long Journey", "How To Level Up to Make More Money"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "NEW! Create A Dynamic Poster with Movement & Depth",
-          "topic_details": ["Section Preview", "Getting started", "Creating 3D shapes in illustrator", "Depth and Movement", "Adding Details", "Adding Typography", "Finishing Touches", "STUDENT PROJECT - POSTER DESIGN"]
+          "topic_details": ["Section Preview", "Getting started", "Creating 3D shapes in illustrator", "Depth and Movement", "Adding Details", "Adding Typography", "Finishing Touches", "STUDENT PROJECT - POSTER DESIGN"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Create a Dynamic Instagram Post!",
-          "topic_details": ["Getting Started", "The Template Setup", "First Slide", "Second Slide", "Third Slide", "Go Bold", "Tell Stories", "Call to Action", "Uploading and Student Challenge"]
+          "topic_details": ["Getting Started", "The Template Setup", "First Slide", "Second Slide", "Third Slide", "Go Bold", "Tell Stories", "Call to Action", "Uploading and Student Challenge"],
+          "topic_thumbnail": null
         }
       ]
     },
@@ -195,23 +228,28 @@
       "topic": [
         {
           "topic_title": "Learn Basic JavaScript by Building a Role Playing Game",
-          "topic_details": ["JavaScript is a powerful scripting language that you can use to make web pages interactive. It's one of the core technologies of the web, along with HTML and CSS. All modern browsers support JavaScript.In this practice project, you'll learn fundamental programming concepts in JavaScript by coding your own Role Playing Game. You'll learn how to work with arrays, strings, objects, functions, loops, if/else statements, and more."]
+          "topic_details": ["JavaScript is a powerful scripting language that you can use to make web pages interactive. It's one of the core technologies of the web, along with HTML and CSS. All modern browsers support JavaScript.In this practice project, you'll learn fundamental programming concepts in JavaScript by coding your own Role Playing Game. You'll learn how to work with arrays, strings, objects, functions, loops, if/else statements, and more."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Form Validation by Building a Calorie Counter",
-          "topic_details": ["Sometimes when you're coding a web application, you'll need to be able to accept input from a user. In this calorie counter project, you'll learn how to validate user input, perform calculations based on that input, and dynamically update your interface to display the results.In this practice project, you'll learn basic regular expressions, template literals, the addEventListener() method, and more."]
+          "topic_details": ["Sometimes when you're coding a web application, you'll need to be able to accept input from a user. In this calorie counter project, you'll learn how to validate user input, perform calculations based on that input, and dynamically update your interface to display the results.In this practice project, you'll learn basic regular expressions, template literals, the addEventListener() method, and more."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Basic String and Array Methods by Building a Music Player",
-          "topic_details": ["Now let's learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications.In this project, you'll code a basic MP3 player using HTML, CSS, and JavaScript. The project covers fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities. You'll even learn how to dynamically update your user interface based on the current song."]
+          "topic_details": ["Now let's learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications.In this project, you'll code a basic MP3 player using HTML, CSS, and JavaScript. The project covers fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities. You'll even learn how to dynamically update your user interface based on the current song."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn the Date Object by Building a Date Formatter",
-          "topic_details": ["Working with dates in JavaScript can be challenging. You have to navigate various methods, formats, and time zones. In this project, you'll learn how to work with the JavaScript Date object, including its methods and properties. You'll also learn how to correctly format dates.This project will cover concepts such as the getDate(), getMonth(), and getFullYear() methods."]
+          "topic_details": ["Working with dates in JavaScript can be challenging. You have to navigate various methods, formats, and time zones. In this project, you'll learn how to work with the JavaScript Date object, including its methods and properties. You'll also learn how to correctly format dates.This project will cover concepts such as the getDate(), getMonth(), and getFullYear() methods."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Build a Palindrome Checker Project Certification Project",
-          "topic_details": ["This is one of the required projects to earn your certification. For this project, you'll build an application that checks whether a given word is a palindrome."]
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you'll build an application that checks whether a given word is a palindrome."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Modern JavaScript Methods by Building Football Team Cards",
@@ -219,63 +257,78 @@
         },
         {
           "topic_title": "Learn localStorage by Building a Todo App",
-          "topic_details": ["Local storage is a web browser feature that lets web applications store key-value pairs persistently within a user's browser. This allows web apps to save data during one session, then retrieve it in a later page session.In this TODO application, you'll learn how to handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements."]
+          "topic_details": ["Local storage is a web browser feature that lets web applications store key-value pairs persistently within a user's browser. This allows web apps to save data during one session, then retrieve it in a later page session.In this TODO application, you'll learn how to handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Recursion by Building a Decimal to Binary Converter",
-          "topic_details": ["Recursion is a programming concept where a function calls itself. This can reduce a complex problem into simpler sub-problems, until they become straightforward to solve.In this project, you’ll build a decimal-to-binary converter using JavaScript. You’ll learn the fundamental concepts of recursion, explore the call stack, and build out a visual representation of the recursion process through an animation."]
+          "topic_details": ["Recursion is a programming concept where a function calls itself. This can reduce a complex problem into simpler sub-problems, until they become straightforward to solve.In this project, you’ll build a decimal-to-binary converter using JavaScript. You’ll learn the fundamental concepts of recursion, explore the call stack, and build out a visual representation of the recursion process through an animation."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Build a Roman Numeral Converter Project. Certification Project",
-          "topic_details": ["This is one of the required projects to claim your certification. For this project, you'll build an application that converts integers to Roman numerals."]
+          "topic_details": ["This is one of the required projects to claim your certification. For this project, you'll build an application that converts integers to Roman numerals."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Basic Algorithmic Thinking by Building a Number Sorter",
-          "topic_details": ["In computer science, there are fundamental sorting algorithms that all developers should learn. In this number sorter project, you'll learn how to implement and visualize different sorting algorithms like bubble sort, selection sort, and insertion sort – all with JavaScript. This project will help you understand the fundamental concepts behind these algorithms, and how you can apply them to sort numerical data in web applications."]
+          "topic_details": ["In computer science, there are fundamental sorting algorithms that all developers should learn. In this number sorter project, you'll learn how to implement and visualize different sorting algorithms like bubble sort, selection sort, and insertion sort – all with JavaScript. This project will help you understand the fundamental concepts behind these algorithms, and how you can apply them to sort numerical data in web applications."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Advanced Array Methods by Building a Statistics Calculator",
-          "topic_details": ["As you expand your JavaScript skills, you'll want to get comfortable with array manipulation methods, such as map(), reduce(), and filter(). In this statistics calculator project, you'll gain experience with handling user input, DOM manipulation, and method chaining. You'll get practice by performing statistical calculations like mean, median, mode, variance, and standard deviation."]
+          "topic_details": ["As you expand your JavaScript skills, you'll want to get comfortable with array manipulation methods, such as map(), reduce(), and filter(). In this statistics calculator project, you'll gain experience with handling user input, DOM manipulation, and method chaining. You'll get practice by performing statistical calculations like mean, median, mode, variance, and standard deviation."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Functional Programming by Building a Spreadsheet",
-          "topic_details": ["Functional Programming is a popular approach to software development. In Functional Programming, developers organize code into smaller functions, then combine those functions to build complex programs. In this spreadsheet application project, you'll learn about parsing and evaluating mathematical expressions, implementing spreadsheet functions, handling cell references, and creating interactive web interfaces. You'll learn how to dynamically update the page based on user input. This project will cover concepts like the map() method, find() method, parseInt(), the includes() method."]
+          "topic_details": ["Functional Programming is a popular approach to software development. In Functional Programming, developers organize code into smaller functions, then combine those functions to build complex programs. In this spreadsheet application project, you'll learn about parsing and evaluating mathematical expressions, implementing spreadsheet functions, handling cell references, and creating interactive web interfaces. You'll learn how to dynamically update the page based on user input. This project will cover concepts like the map() method, find() method, parseInt(), the includes() method."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Regular Expressions by Building a Spam Filter",
-          "topic_details": ["Regular expressions, often shortened to {regex} or {regexp}, are patterns that help programmers match, search, and replace text. Regular expressions are powerful, but can be difficult to understand because they use so many special characters. In this spam filter project, you'll learn about capture groups, positive lookaheads, negative lookaheads, and other techniques to match any text you want."]
+          "topic_details": ["Regular expressions, often shortened to {regex} or {regexp}, are patterns that help programmers match, search, and replace text. Regular expressions are powerful, but can be difficult to understand because they use so many special characters. In this spam filter project, you'll learn about capture groups, positive lookaheads, negative lookaheads, and other techniques to match any text you want."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Build a Telephone Number Validator Project. Certification Project",
-          "topic_details": ["This is one of the required projects to claim your certification. For this project, you'll build an application that checks if a number is a valid United States phone number."]
+          "topic_details": ["This is one of the required projects to claim your certification. For this project, you'll build an application that checks if a number is a valid United States phone number."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Basic OOP by Building a Shopping Cart",
-          "topic_details": ["OOP, or Object Oriented Programming, is one of the major approaches to the software development process. In OOP, developers use objects and classes to structure their code. In this shopping cart project, you'll learn how to define classes and use them. You'll create class instances and implement methods for data manipulation. This project will cover concepts like the ternary operator, the spread operator, the this keyword, and more."]
+          "topic_details": ["OOP, or Object Oriented Programming, is one of the major approaches to the software development process. In OOP, developers use objects and classes to structure their code. In this shopping cart project, you'll learn how to define classes and use them. You'll create class instances and implement methods for data manipulation. This project will cover concepts like the ternary operator, the spread operator, the this keyword, and more."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Intermediate OOP by Building a Platformer Game",
-          "topic_details": ["Coding a game is a great way to grasp fundamental programming principles, while also creating an interactive gaming experience. In this platformer game project, you'll continue to learn about classes, objects, inheritance, and encapsulation. You'll also learn how to design and organize game elements efficiently and gain insights into problem-solving and code reusability."]
+          "topic_details": ["Coding a game is a great way to grasp fundamental programming principles, while also creating an interactive gaming experience. In this platformer game project, you'll continue to learn about classes, objects, inheritance, and encapsulation. You'll also learn how to design and organize game elements efficiently and gain insights into problem-solving and code reusability."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Intermediate Algorithmic Thinking by Building a Dice Game",
-          "topic_details": ["Algorithmic thinking involves the ability to break down complex problems into a sequence of well-defined, step-by-step instructions. In this Dice game project, you’ll learn how to manage game state, implement game logic for rolling dice, keeping score, and applying rules for various combinations. This project covers concepts such as event handling, array manipulation, conditional logic, and updating the user interface dynamically based on game state."]
+          "topic_details": ["Algorithmic thinking involves the ability to break down complex problems into a sequence of well-defined, step-by-step instructions. In this Dice game project, you’ll learn how to manage game state, implement game logic for rolling dice, keeping score, and applying rules for various combinations. This project covers concepts such as event handling, array manipulation, conditional logic, and updating the user interface dynamically based on game state."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Build a Cash Register Project. Certification Project",
-          "topic_details": ["This is one of the required projects to earn your certification. For this project, you'll build a cash register web app."]
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you'll build a cash register web app."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Fetch and Promises by Building an fCC Authors Page",
-          "topic_details": ["One common aspect of web development is learning how to fetch data from an external API, then work with asynchronous JavaScript. This freeCodeCamp authors page project will show you how to use the fetch method, then dynamically update the DOM to display the fetched data. This project will also teach you how to paginate your data so you can load results in batches."]
+          "topic_details": ["One common aspect of web development is learning how to fetch data from an external API, then work with asynchronous JavaScript. This freeCodeCamp authors page project will show you how to use the fetch method, then dynamically update the DOM to display the fetched data. This project will also teach you how to paginate your data so you can load results in batches."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn Asynchronous Programming by Building an fCC Forum Leaderboard",
-          "topic_details": ["JavaScript is an asynchronous programming language. And this project will help you gain proficiency in asynchronous concepts. You'll code your own freeCodeCamp forum leaderboard. This project will cover the Fetch API, promises, Async/Await, and the try..catch statement."]
+          "topic_details": ["JavaScript is an asynchronous programming language. And this project will help you gain proficiency in asynchronous concepts. You'll code your own freeCodeCamp forum leaderboard. This project will cover the Fetch API, promises, Async/Await, and the try..catch statement."],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Build a Pokémon Search App Project. Certification Project",
-          "topic_details": ["This is one of the required projects to earn your certification. For this project, you will build a Pokémon search app."]
+          "topic_details": ["This is one of the required projects to earn your certification. For this project, you will build a Pokémon search app."],
+          "topic_thumbnail": null
         }
       ]
     },
@@ -295,45 +348,54 @@
         "published_date": "2022-08-24 23:15:00",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "thumbnail_url": "",
+      "thumbnail_url": "https://img-c.udemycdn.com/course/750x422/1622484_652b_4.jpg",
       "image_url": null,
       "details": "Do you want to learn graphic design & advertising from scratch? well, I’ve tried to squeeze my academic studying in advertising in the faculty of applied arts & experience in the design field for more than 15 years in one single graphic design course that would help an absolute beginner or even an advanced graphic designer to become a professional graphic designer.This is a very Dynamic MasterClass as A whole New section is added to the course teaching how to use AI tools like Midjourney, Adobe Firefly, Chat GPT, and Google Bard in Graphic design to create intricate designs in a few minutes and to stay on top of your game as a designer so you can integrate your exceptional Human Intelligence with Artificial Intelligence to create mind-blowing visuals! So, Starting with graphic design theories including typography, color theory, graphic design compositions & layout theories to know the science behind achieving great designs. Plus bonus videos where I will be giving you tours in New York design museums like the Museum of Illusions in New York for example (Adobe Graphic Design Applications: Photoshop, Illustrator, Indesign, Creative Cloud, PDF). We will learn Photoshop while we are covering different design niches & categories in the course to make sure you can engage in any graphic design task as a professional graphic designer, so in photoshop we are covering real-world projects & advertising campaigns for big brands & how to do creative thinking & professional graphic visuals, so, for example, we will design for Mercedes Benz, Vodafone, Boeing, and more… and even we are covering social media graphic design campaigns which are crucial nowadays. We will learn how to use great & powerful AI generative tools like (Midjourney, Adobe Firefly, Chat GPT, Google Bard & More..) to work as a designer for us or as an assistant designer or for inspiration to come up with great designs that will revolutionize the design industry as we will focus on how to use them mainly for design purposes & we will dive deep into the world of text prompt engineering to take control of the generated Art & designs so we can achieve what we imagine in few clicks & also this will not only save you tons of time but also it will shorten your learning curve in the graphic design field as these tools can achieve complex visuals in a flash instead of watching and learning tutorials about specific techniques for certain effects, however still knowing the designs tools like photoshop, Illustrator & Indesign thoroughly will give a great advantage as a designer especially that AI can't really do everything as some people would imagine. we will learn in Illustrator how to design a corporate identity or a full branding from scratch including how to build professional logos & various brand publications & graphic visuals. Also, we will learn how to present our design work in a stunning way as well using both Photoshop & Illustrator & amazing resources for the best graphic design mock-ups & even how to save time designing them. then we will learn Adobe InDesign from scratch including of course different Indesign tools, Indesign panels, printing technicals, character & paragraph styles in Indesign, and Indesign’s Master pages to achieve your graphic designs in a fast & professional way through practical projects including a bifold brochure then moving to another Indesign project: full 16 pages of different creative layouts of editorial designs (also we learn more in this project about different design theories especially graphic design grids & how to apply different graphic design grids in different layouts) which will be your own stunning design portfolio by the way & you will get a portfolio template to customize it according to your own taste & style. so by the end of this course, you will have learned graphic design theories, graphic design tools (Photoshop, Illustrator, Indesign) & creative design & advertising thinking plus a full portfolio filled with your own design samples that you’ve been building through the entire graphic design course.",
       "topic": [
         {
           "topic_title": "Graphic Design Introduction & Graphic design Resources",
-          "topic_details": ["Graphic Design MasterClass Promo", "How to study for this Graphic Design MasterClass (Very Important)", "Graphic design Course Resources & facebook group", "AI (Artificial Intelligence) in Graphic Design Section Added to the MasterClass"]
+          "topic_details": ["Graphic Design MasterClass Promo", "How to study for this Graphic Design MasterClass (Very Important)", "Graphic design Course Resources & facebook group", "AI (Artificial Intelligence) in Graphic Design Section Added to the MasterClass"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Graphic Design Theories",
-          "topic_details": ["Color Theory Fundamentals for graphic designers", "Graphic design layout composition rules", "Graphic Design grids (Grid systems)", "Typography Classifications, styles, font selection & exercise", "Typography terms in Graphic design & Hierarchy", "Font Pairing in Advertising & graphic design", "Common Typography mistakes in graphic design", "Creative thinking techniques in Advertising, Graphic design & Digital marketing", "Gestalt Theory for graphic design & Advertising", "New York Museum of Illusion (visual Illusions for graphic designers)"]
+          "topic_details": ["Color Theory Fundamentals for graphic designers", "Graphic design layout composition rules", "Graphic Design grids (Grid systems)", "Typography Classifications, styles, font selection & exercise", "Typography terms in Graphic design & Hierarchy", "Font Pairing in Advertising & graphic design", "Common Typography mistakes in graphic design", "Creative thinking techniques in Advertising, Graphic design & Digital marketing", "Gestalt Theory for graphic design & Advertising", "New York Museum of Illusion (visual Illusions for graphic designers)"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Photoshop Creative Design",
-          "topic_details": ["Photoshop Boeing Minimal Design Project", "Photoshop Art boards designs for advertising campaigns (resolution) (Exercise)", "Photoshop Vodafone Ad Design project", "Photoshop 2024 & Firefly (AI) New Features", "Dental Clinic Design (photoshop Project)(Part1)", "Dental clinic Design ( social media photoshop Project)(Part2)", "Social media Advertising Campaign in Photoshop Ad2 (exercise)", "Social media Advertising Campaign in Photoshop Ad3 (exercise)", "Mercedes Benz Ad design & concept (part1)", "Mercedes Benz Ad design & concept (part2)", "Juice Brand logo & label design & mock-up customization (part1)", "Juice Brand Ad design (part2)", "Juice Brand Ad design (part3)", "Photoshop Nike Ad design", "Creative Typography design ideas in Photoshop"]
+          "topic_details": ["Photoshop Boeing Minimal Design Project", "Photoshop Art boards designs for advertising campaigns (resolution) (Exercise)", "Photoshop Vodafone Ad Design project", "Photoshop 2024 & Firefly (AI) New Features", "Dental Clinic Design (photoshop Project)(Part1)", "Dental clinic Design ( social media photoshop Project)(Part2)", "Social media Advertising Campaign in Photoshop Ad2 (exercise)", "Social media Advertising Campaign in Photoshop Ad3 (exercise)", "Mercedes Benz Ad design & concept (part1)", "Mercedes Benz Ad design & concept (part2)", "Juice Brand logo & label design & mock-up customization (part1)", "Juice Brand Ad design (part2)", "Juice Brand Ad design (part3)", "Photoshop Nike Ad design", "Creative Typography design ideas in Photoshop"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "AI Tools in Graphic Design (New Section)",
-          "topic_details": ["Intro about AI tools like Midjourney, Adobe Firefly & Designer's Augmentation", "Midjourney (prompts, seeding, versions, related prompts & chat GPT)", "Text prompt engineering tools including chat GPT, bard & Midjourney", "complex graphic designs Using AI photoshop generative fill & Midjourney", "Adobe firefly V.S Midjourney AI Text to Image", "Adobe firefly Text effects AI tool"]
+          "topic_details": ["Intro about AI tools like Midjourney, Adobe Firefly & Designer's Augmentation", "Midjourney (prompts, seeding, versions, related prompts & chat GPT)", "Text prompt engineering tools including chat GPT, bard & Midjourney", "complex graphic designs Using AI photoshop generative fill & Midjourney", "Adobe firefly V.S Midjourney AI Text to Image", "Adobe firefly Text effects AI tool"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Illustrator Creative Design",
-          "topic_details": ["Logo design concept & Graphic designer's dilemma", "Brand's logo Design Process in Illustrator", "Importance of branding & how to set brand's visual rules", "Design the brand Identity in Illustrator & Logo Option", "Presenting your designs & designing inside mockups (photoshop & Illustrator)", "Illustrator Logos & Full Branding exercise", "Illustrator 2024 New Features & (AI) Firefly"]
+          "topic_details": ["Logo design concept & Graphic designer's dilemma", "Brand's logo Design Process in Illustrator", "Importance of branding & how to set brand's visual rules", "Design the brand Identity in Illustrator & Logo Option", "Presenting your designs & designing inside mockups (photoshop & Illustrator)", "Illustrator Logos & Full Branding exercise", "Illustrator 2024 New Features & (AI) Firefly"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Indesign Creative Design & Essentials",
-          "topic_details": ["Indesign essentials brochure project Introduction","Indesign New Documents & Graphic Design Templates","Indesign Workspace tour & familiarization & save","Indesign Brochure Project: Cover Design (Part1)","Indesign Brochure Project: Cover Design (Part2)","Indesign Brochure Project: Inside pages Design (design grid) (Part3)","Indesign Brochure Project: Inside pages Design (Part4)","Indesign Packages & Exporting (Printing Technicals)","Indesign 2022 New Updates (New Name for Masterpages)","Indesign 2023 New Features & updates","Indesign 2024 New Features & Updates","Graphic designer Portfolio Introduction","Graphic designer Portfolio Cover (5 design options)","Portfolio Pages (2-3 resume-cv) (text wrap)","Master Pages, gradient tool, page numbering & special characters","Pages 4,5 (paragraph styles, dynamic design, object style,  triangular grid)","Pages (6,10,11) Tips & tricks: Content placer, content collect, gap tools","Indesign Exercise (Designing Pages & Frame masking techniques)","Indesign Tables (styling, formatting, rounded corners & tricks)","Golden ratio grid, Fibonacci Grids using Indesign Gap tool","Type in depth in indesign (Auto thread, styles, spelling, open type, glyphs)","Indesign Packages, Impositions, pre-checking, preflight, find change & spelling"]
+          "topic_details": ["Indesign essentials brochure project Introduction","Indesign New Documents & Graphic Design Templates","Indesign Workspace tour & familiarization & save","Indesign Brochure Project: Cover Design (Part1)","Indesign Brochure Project: Cover Design (Part2)","Indesign Brochure Project: Inside pages Design (design grid) (Part3)","Indesign Brochure Project: Inside pages Design (Part4)","Indesign Packages & Exporting (Printing Technicals)","Indesign 2022 New Updates (New Name for Masterpages)","Indesign 2023 New Features & updates","Indesign 2024 New Features & Updates","Graphic designer Portfolio Introduction","Graphic designer Portfolio Cover (5 design options)","Portfolio Pages (2-3 resume-cv) (text wrap)","Master Pages, gradient tool, page numbering & special characters","Pages 4,5 (paragraph styles, dynamic design, object style,  triangular grid)","Pages (6,10,11) Tips & tricks: Content placer, content collect, gap tools","Indesign Exercise (Designing Pages & Frame masking techniques)","Indesign Tables (styling, formatting, rounded corners & tricks)","Golden ratio grid, Fibonacci Grids using Indesign Gap tool","Type in depth in indesign (Auto thread, styles, spelling, open type, glyphs)","Indesign Packages, Impositions, pre-checking, preflight, find change & spelling"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Photoshop Essentials Training",
-          "topic_details": ["The Power of Photoshop","Creating Photoshop documents","Photoshop workspaces","Navigation in Photoshop","Cropping images","Color Modes in photoshop","Resolution & enlarging images without losing quality","Saving Artwork in different formats (psd,jpeg,psb,tiff,png)","Photoshop 2022 (Save a Copy & NFT)","Layers concept & Handling them","Photoshop's Layers Panel","Photoshop 2020 New Layers Navigation","Unleash creativity with Blend modes","layer styles","Transformation Modes & Tricks","Puppet warp in photoshop","Perspective warp in photoshop","Align & Distribute in photoshop","Mastering Precision in photoshop (guides, grids, rulers, snap)","Brush basics & color panel & symmetrical drawing in photoshop","brushes panel & getting cool photoshop brushes","Creating brushes & brush settings in photoshop","Digital painting Essentials, mixer brush&color replacement brush tools","Digital painting Tutorial using Photoshop","Tilde key brush shortcut (Photoshop CC 2020)","Vector shapes essentials & tools","Live shapes & Path operations in photoshop","selection concept in Photoshop & basics part1","selection concept in Photoshop & basics part2","Photoshop selection tools part1","Photoshop selection tools part2","Photoshop Object selection tool & properties panel update 2020","Photoshop 2022 Updates (New object selection & Neural filters)","Photoshop 2023 updates & New Features","Photoshop Masking & Non destructive editing","Focus range combined with Photoshop selection tools","Color range selection & Photoshop photo manipulation techniques"]
+          "topic_details": ["The Power of Photoshop","Creating Photoshop documents","Photoshop workspaces","Navigation in Photoshop","Cropping images","Color Modes in photoshop","Resolution & enlarging images without losing quality","Saving Artwork in different formats (psd,jpeg,psb,tiff,png)","Photoshop 2022 (Save a Copy & NFT)","Layers concept & Handling them","Photoshop's Layers Panel","Photoshop 2020 New Layers Navigation","Unleash creativity with Blend modes","layer styles","Transformation Modes & Tricks","Puppet warp in photoshop","Perspective warp in photoshop","Align & Distribute in photoshop","Mastering Precision in photoshop (guides, grids, rulers, snap)","Brush basics & color panel & symmetrical drawing in photoshop","brushes panel & getting cool photoshop brushes","Creating brushes & brush settings in photoshop","Digital painting Essentials, mixer brush&color replacement brush tools","Digital painting Tutorial using Photoshop","Tilde key brush shortcut (Photoshop CC 2020)","Vector shapes essentials & tools","Live shapes & Path operations in photoshop","selection concept in Photoshop & basics part1","selection concept in Photoshop & basics part2","Photoshop selection tools part1","Photoshop selection tools part2","Photoshop Object selection tool & properties panel update 2020","Photoshop 2022 Updates (New object selection & Neural filters)","Photoshop 2023 updates & New Features","Photoshop Masking & Non destructive editing","Focus range combined with Photoshop selection tools","Color range selection & Photoshop photo manipulation techniques"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Illustrator Essentials Training",
-          "topic_details": ["The Power of Adobe Illustrator","Illustrator Documents","Illustrator workspaces & Properties Panel","Illustrator 2022 Workspace Minor Update","Artboards","Illustrator Navigation & zooming","illustrator Preferences & Settings","Illustrator Basic geometric shapes","Illustrator Transformation & Rotation","IllustIllustrator Pathfinder & shape builder tool","Illustrator Selection tools & methods","grouping elements in illustrator","illustrator Layers","Illustrator Align & distribute panel","Illustrator Guides & Rulers","Exercise: Drawing Basic Geometric shapes","Illustrator Stroke Panel​​","Illustrator color panels (color, swatches, themes, guide)​​"]
+          "topic_details": ["The Power of Adobe Illustrator","Illustrator Documents","Illustrator workspaces & Properties Panel","Illustrator 2022 Workspace Minor Update","Artboards","Illustrator Navigation & zooming","illustrator Preferences & Settings","Illustrator Basic geometric shapes","Illustrator Transformation & Rotation","IllustIllustrator Pathfinder & shape builder tool","Illustrator Selection tools & methods","grouping elements in illustrator","illustrator Layers","Illustrator Align & distribute panel","Illustrator Guides & Rulers","Exercise: Drawing Basic Geometric shapes","Illustrator Stroke Panel​​","Illustrator color panels (color, swatches, themes, guide)​​"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Bonus",
-          "topic_details": ["UNLOCK MORE DESIGN SKILLS (Bonus Lecture)"]
+          "topic_details": ["UNLOCK MORE DESIGN SKILLS (Bonus Lecture)"],
+          "topic_thumbnail": null
         }
       ]
     },
@@ -358,43 +420,53 @@
       "topic": [
         {
           "topic_title": "Create a Simple JSX Element",
-          "topic_details": ["No details"]
+          "topic_details": ["No details"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Create a Complex JSX Element",
-          "topic_details": ["No details"]
+          "topic_details": ["No details"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Add Comments in JSX",
-          "topic_details": ["No details"]
+          "topic_details": ["No details"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Render HTML Elements to the DOM",
-          "topic_details": ["No details"]
+          "topic_details": ["No details"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Define an HTML Class in JSX",
-          "topic_details": ["No details"]
+          "topic_details": ["No details"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Learn About Self-Closing JSX Tags",
-          "topic_details": ["No details"]
+          "topic_details": ["No details"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Create a Stateless Functional Component",
-          "topic_details": ["No details"]
+          "topic_details": ["No details"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Create a React Component",
-          "topic_details": ["No details"]
+          "topic_details": ["No details"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Create a Component with Composition",
-          "topic_details": ["No details"]
+          "topic_details": ["No details"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Use React to Render Nested Components",
-          "topic_details": ["No details"]
+          "topic_details": ["No details"],
+          "topic_thumbnail": null
         }
       ]
     },
@@ -496,57 +568,69 @@
         "published_date": null,
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
-      "thumbnail_url": "",
+      "thumbnail_url": "https://img-c.udemycdn.com/course/750x422/1854680_8830_4.jpg",
       "image_url": null,
       "details": "Learn Photoshop and Illustrator from Scratch to Master Level with 100+ Projects ,350+ Lectures,40+ Hours Video Content. After Taking this course , you will Master Both Photoshop and Illustrator . You will gain enormous confidence in yourself, that you can take up any professional Project You are going to Become an Active Designer as we will practice with new different images every month You can Manipulate Images as your wish . You can create your own Fantasy World You can design Cartoon faces , Awesome Professional Logos , Abstract Backgrounds , Design Effects , Text Effects etc. You can do Photo Retouching , Restoration , with Photo Manipulation You can Master The wizard : 'The Pen Tool'",
       "topic":[
         {
           "topic_title": "Introduction",
-          "topic_details": ["Introduction","How to take the course and How you can take full advantage of this course","How to be an Active Designer"]
+          "topic_details": ["Introduction","How to take the course and How you can take full advantage of this course","How to be an Active Designer"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Illustrator MasterCourse Part1 : Illustrator Basics",
-          "topic_details": ["Illustrator Interface","Creating a New Document","Project1 : Creating Interesting Shape using Simple Trick","Object Oriented Design"]
+          "topic_details": ["Illustrator Interface","Creating a New Document","Project1 : Creating Interesting Shape using Simple Trick","Object Oriented Design"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Illustrator MasterCourse : Part2 : Creating Basic Shapes",
-          "topic_details": ["Creating Rectangle and Square Using Rectangle Tool","Rounded Rectangle Tool","Creating Rectangle and Circle Using Rounded Rectangle Tool","Ellipse Tool","Polygon Tool","Star Tool","Line Tool","Arc Tool","Spiral Tool","Project2 : Spiral Project : Part1","Project2 : Spiral Project : Part2","Project2 : Spiral Project : Part3"]
+          "topic_details": ["Creating Rectangle and Square Using Rectangle Tool","Rounded Rectangle Tool","Creating Rectangle and Circle Using Rounded Rectangle Tool","Ellipse Tool","Polygon Tool","Star Tool","Line Tool","Arc Tool","Spiral Tool","Project2 : Spiral Project : Part1","Project2 : Spiral Project : Part2","Project2 : Spiral Project : Part3"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Illustrator MasterCourse : Part3 : Creating Advanced Shapes",
-          "topic_details": ["Pathfinder Concept : Part1 : Unite","Pathfinder Concept : Part2 : Shape Modes","Pathfinder Concept : Part3 : Divide and Trim (Learn the Differences)","Pathfinder Concept : Part4 : Detailed Concept","Pathfinder Summary","Project3 : Logo Design : Bricks Logo","Project4 : Logo Design : Roshni Logo","Project5 : Logo Design : Pacman Logo","Project6 : Logo Design : Bus Logo","Project7 : Logo Design : Insurance Logo","Shape Builder Tool : Part1","Shape Builder Tool : Part2","Project 8 : Creating Clouds","Width Tool","Project9 : Fun Project"]
+          "topic_details": ["Pathfinder Concept : Part1 : Unite","Pathfinder Concept : Part2 : Shape Modes","Pathfinder Concept : Part3 : Divide and Trim (Learn the Differences)","Pathfinder Concept : Part4 : Detailed Concept","Pathfinder Summary","Project3 : Logo Design : Bricks Logo","Project4 : Logo Design : Roshni Logo","Project5 : Logo Design : Pacman Logo","Project6 : Logo Design : Bus Logo","Project7 : Logo Design : Insurance Logo","Shape Builder Tool : Part1","Shape Builder Tool : Part2","Project 8 : Creating Clouds","Width Tool","Project9 : Fun Project"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Illustrator MasterCourse : Part4 : Mastering Brush Tool",
-          "topic_details": ["Using Brush Tool","Calligraphic Brush","Scatter Brush","Art Brush","Bristle Brush","Pattern Brush","Project10 : Patterened Border (Part1)","Project10 : Patterened Border (Part2)","Mega Project 11 : Cartoon Face (Part1)","Mega Project 11 : Cartoon Face (Part2)","Mega Project 11 : Cartoon Face (Part3)"]
+          "topic_details": ["Using Brush Tool","Calligraphic Brush","Scatter Brush","Art Brush","Bristle Brush","Pattern Brush","Project10 : Patterened Border (Part1)","Project10 : Patterened Border (Part2)","Mega Project 11 : Cartoon Face (Part1)","Mega Project 11 : Cartoon Face (Part2)","Mega Project 11 : Cartoon Face (Part3)"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Illustrator MasterCourse : Part5 : Mastering Pen Tool",
-          "topic_details": ["Understanding Anchor Points and Anchor Handles","Drawing Straight Lines Using Pen Tool","Drawing Curves using Pen Tool","Important Tips and Tricks for Using Pen Tool Efficiently","Project 12 : Draw Anything Using Pen Tool : Letter Design","Mega Project 13 : Cartoon Face Using Pen Tool : Part1","Mega Project 13 : Cartoon Face Using Pen Tool : Part2","Mega Project 13 : Cartoon Face Using Pen Tool : Part3"]
+          "topic_details": ["Understanding Anchor Points and Anchor Handles","Drawing Straight Lines Using Pen Tool","Drawing Curves using Pen Tool","Important Tips and Tricks for Using Pen Tool Efficiently","Project 12 : Draw Anything Using Pen Tool : Letter Design","Mega Project 13 : Cartoon Face Using Pen Tool : Part1","Mega Project 13 : Cartoon Face Using Pen Tool : Part2","Mega Project 13 : Cartoon Face Using Pen Tool : Part3"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Illustrator MasterCourse : Part6 : Mastering Illustrator Tools",
-          "topic_details": ["Selection Tool","Direct Selection Tool","Magic Wand and Lasso Tool","Pencil, Eraser, Knife and Scissor Tool","Reflect and Rotate Tool","Scale and Sheer Tool","Pucker and Bloat Tool","Perspective Grid Tool","Type Tool (Part1)","Type Tool (Part2)","Gradient Tool","Chart Tool","Blend Tool","Gradient Mesh Tool","Free Transform Tool","Zoom and Hand Tool","Eye Dropper Tool","Project 14 : Metallic Text","Project 15 : Sale Banner Design","Project 16 : Abstract Shapes","Project 17 : 3D Chart","Project 18 : 3D Mango Design"]
+          "topic_details": ["Selection Tool","Direct Selection Tool","Magic Wand and Lasso Tool","Pencil, Eraser, Knife and Scissor Tool","Reflect and Rotate Tool","Scale and Sheer Tool","Pucker and Bloat Tool","Perspective Grid Tool","Type Tool (Part1)","Type Tool (Part2)","Gradient Tool","Chart Tool","Blend Tool","Gradient Mesh Tool","Free Transform Tool","Zoom and Hand Tool","Eye Dropper Tool","Project 14 : Metallic Text","Project 15 : Sale Banner Design","Project 16 : Abstract Shapes","Project 17 : 3D Chart","Project 18 : 3D Mango Design"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Illustrator MasterCourse : Part7 : Mastering Important Palettes/Panels",
-          "topic_details": ["Stroke Palette","Appearence Palette","Align Palette","Symbols Palette"]
+          "topic_details": ["Stroke Palette","Appearence Palette","Align Palette","Symbols Palette"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Illustrator MasterCourse : Part8 : Important Tips and Tricks for Easing Workflow",
-          "topic_details": ["Selecting and Moving Objects","Arranging Objects","Copy Pasting Object Techniques and which to use when","Hiding and Locking Layers","Stroke and Fill Techniques","Color Palette","Zooming and Dragging around Document for Efficiency","Aligning Objects Properly","Anchor Points and Direct Selection Tool","Expand and Expand Appearence","Transforming Objects (Reflect Technique also covered)"]
+          "topic_details": ["Selecting and Moving Objects","Arranging Objects","Copy Pasting Object Techniques and which to use when","Hiding and Locking Layers","Stroke and Fill Techniques","Color Palette","Zooming and Dragging around Document for Efficiency","Aligning Objects Properly","Anchor Points and Direct Selection Tool","Expand and Expand Appearence","Transforming Objects (Reflect Technique also covered)"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Illustrator MasterCourse : Part9 : Mastering Effects in Illustrator",
-          "topic_details": ["Transform","Pucker and Bloat","Free Distort","Tweak","Twist","Zigzag","Offset Path","Effect Gallery","Project 19 : Creating Flowers (Multiple Techniques)","Project 20 : Amazing Shapes with Steps Revealed","Project 21 : Logo Design1","Project 22 : Logo Design2","Project 23 : Shiny Edge Project","Project 24 : Abstract Background Using Method 1","Project 25 : Abstract Background Using Method 2","Adding Shining Effect : Moon Project"]
+          "topic_details": ["Transform","Pucker and Bloat","Free Distort","Tweak","Twist","Zigzag","Offset Path","Effect Gallery","Project 19 : Creating Flowers (Multiple Techniques)","Project 20 : Amazing Shapes with Steps Revealed","Project 21 : Logo Design1","Project 22 : Logo Design2","Project 23 : Shiny Edge Project","Project 24 : Abstract Background Using Method 1","Project 25 : Abstract Background Using Method 2","Adding Shining Effect : Moon Project"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Illustrator MasterCourse : Part10 : Masking",
-          "topic_details": ["What is Masking and Understanding Draw Inside Mode", "Clipping Mask", "Opacity Mask","Project27 : Profile Pic (Image Inside Shape)","Project28 : Image on Text", "Project29 : Reflection Effect"]
+          "topic_details": ["What is Masking and Understanding Draw Inside Mode", "Clipping Mask", "Opacity Mask","Project27 : Profile Pic (Image Inside Shape)","Project28 : Image on Text", "Project29 : Reflection Effect"],
+          "topic_thumbnail": null
         },
         {
           "topic_title": "Illustrator MasterCourse : Part11 : 3D",
-          "topic_details": ["Extrude and Bevel","Revolve","Rotate","Project30 : Ribbon","Project31 : Logo Design"]
+          "topic_details": ["Extrude and Bevel","Revolve","Rotate","Project30 : Ribbon","Project31 : Logo Design"],
+          "topic_thumbnail": null
         }
       ]
     },

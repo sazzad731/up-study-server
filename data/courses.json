@@ -1432,101 +1432,73 @@
       "total_view": 546,
       "title": "Advanced Google Tag Manager Browser and Server side Tracking Mastery",
       "author": {
-        "name": "The Philadelphia Inquirer",
+        "name": "MD.Niamul",
         "published_date": "2022-08-30 22:00:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "img": "https://instructory-s3-storage-live.s3.brilliant.com.bd/profile_photos/u9FstXLyWCAsQpqWGboKvaOvgwaOh8Z8S0KjyDZq.png"
       },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "thumbnail_url": "https://instructory-s3-storage-live.s3.brilliant.com.bd/course_thumbnails/65a014c986f84.jpg",
       "image_url": null,
       "details": "This course will cover everything you need to know to start using Google Tag Manager with confidence. Step by step I take you through various features of Google Tag Manager and show you how you can implement various Tags. You will go from not knowing anything about Google Tag Manager and Data Layers to mastering them and using them with confidence. I take a personal interest in your success so if get stuck or want something that is not covered in the course then feel free to reach out to me. Everything you need to know to begin using Google Tag Manager confidently will be covered in this course. I walk you through all of Google Tag Manager's capabilities step-by-step and demonstrate how to use different Tags.",
       "topic": [
         {
-          "topic_title": "Course Intro.mp4",
-          "topic_details": ["No details"]
+          "topic_title": "Module-00 Intro Course",
+          "topic_details": ["Course Intro.mp4","Course Outine Intro.mp4","instructor intro.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/1rigVmkrkGYMdbkxy1V3eRdvRbK5CkyAlfjkBBrV.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/ajJduwoFOoBatfa5D0JnaJDcVtFkCnkfp8Qyuk9T.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/EhMytiLtXCdxPmZfzfxAezfjKWVRkLaABnIOEG00.jpeg"]
         },
         {
-          "topic_title": "What is Google Tag Manager & How it works?.mp4",
-          "topic_details": ["This video explains what Google Tech Manager is, and how it works. What are the benefits of this to me and why do we need it in our business? All these topics are discussed in detail in this video."]
+          "topic_title": "How to join Facebook Group for Support & Course Important Document",
+          "topic_details": ["How to join Facebook Group for Support.mp4","How to Find Course Important Document.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/QN6YClyH4i6vKmMVn8X8oOqT5wJJiz2KHWzwWRu9.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/SG3SPLR6LDUR7u7NmDEYhKayzSfmgdVFfPIqtGA6.jpeg"]
         },
         {
-          "topic_title": "Why need google tag manager and benefits?",
-          "topic_details": ["This video explains why we need Google Tag Manager. What is the benefit for each of our businesses? These things we have discussed step by step through this video."]
+          "topic_title": "Module-01 Understanding Google Tag Manager (GTM)",
+          "topic_details": ["What is Google Tag Manager & How it works?.mp4","Why Need Google Tag Manager And Benefits?.mp4","Difference between Google Tag Manager & Google Analytics.mp4","Difference between Google Tag Manager & Google Analytics.mp4","How To Create Google Tag Manager Account ?.mp4","Account Structure of Google Tag Manager.mp4","Google Tag Manager Account Dashboard Overview.mp4","How To Access Google Tag Manager ?.mp4","Components of Google Tag Manager (Tags, Triggers & Variables).mp4","Introduction to GTM Built-in and User Defined Variables.mp4","How to Install Google Tag Manager on a Shopify Website ?.mp4","How to Install Google Tag Manager on a Wordpress Website ?.mp4","Introduction to Data Layer  in GTM for Dynamic Parameters.mp4","Install Data Layer Wordpress Ecommerce Website.mp4","Install Data Layer Shopify Ecommerce Website.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/Dae98RWdUhSIDkcJsC1CDu1zlVN9v1pDFNfyqJnC.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/wOiliPFNnpV2mhqqtmHMdz1bBLgoRTvLyd8W3EZK.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/VfiQ6SNmiZTCtV2robkzQD7dHVRGHcs7UediSQsH.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/3qmvn99kAtgLLpQeGd7ZUJE8Tyz4OJPEZktNiMCw.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/YS8QF0RzlWmmhoRTresBdxm4mBTpMID8pX2oPblb.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/sKAxpNJSb8LnVNbwbEKIAmJGjzGXJVtFaF5QdWok.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/wFU0MrkHOBfNOD1AeP9SMn3XX7qUFG8uyB1mOYDb.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/jzaksLze9uFGKXXKG30HZniinMPZZFH08mMDktjh.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/CJ1I3E4gy5L6cWlRkoOlugHOOIkBrJtbCine3Pij.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/QR8On3BpTNcMd6nTl9lH2mAmaduLtKudzBr0gj70.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/QR8On3BpTNcMd6nTl9lH2mAmaduLtKudzBr0gj70.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/7IXpdeN6r4fs9wWWgWw4QOy78w1V7ajVR8z1lKDQ.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/CfAkIHqvWODc9EAmIl5l28cUHbhLa11rmMG6DiQ9.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/2x0uPwrhcs70aHhuCoCGM5PDIgtrIiWM6gMZYMvW.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/HBMF7LXlmIdvUPpwyjGWEZGBKGAJEZhbawEIwq7N.jpeg"]
         },
         {
-          "topic_title": "Difference between google ag manager & google analytics.",
-          "topic_details": ["What is the difference between Google Tag Manager and Google Analytics in this election? Google Tag Manager is a marketing tag management and Google Analytics is a reporting platform discussed in detail."]
+          "topic_title": "Module-02 Create Wordpress And Shopify Ecommerce Website For practice",
+          "topic_details": ["Make Wordpress Ecommerce Website For practice.mp4","Make Shopify Ecommerce Website For practice.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/4xIKB7FSXxbd6BAnohGKOtW5adlzOALuIXDiZjQH.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/IP58BTgUDSXKx7vMEgb8Mn9vs33noEGzjInmrRMZ.jpeg"]
         },
         {
-          "topic_title": "How to create google tag manager account?",
-          "topic_details": ["This lesson explains how to create a Google Tag Manager account."]
+          "topic_title": "Module-03 Wordpress Website Google Ads Enhanced Conversions Tracking via GTM",
+          "topic_details": ["Google Ads Conversion with purchase value (dynamic) tracking.mp4","Google Ads Enhanced Conversion with purchase value tracking.mp4","Google Ads Enhanced Conversion with Checkout value tracking.mp4","Google Ads Enhanced Conversion with add to Cart value tracking.mp4","Google Ads Call Conversion Tracking for Website.mp4","Google Ads Call Conversion Tracking for Mobile site.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/UAXMSx9ZriQXG8P4PDwl4UrxUsxTJuTvZK0uu2pK.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/c6oMhmAEre1St6rObUyK4godr595KdG328hJ4PIm.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/WYGK4qvROS5SHBMhmXfSQiKPlwOOXcyUS1mgccaU.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/COJIIiHgtRGyDjIztOLlEzXnjC3HzEAiSpoKAltp.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/49qcLszHYo759LzpyqaVE0aPFVoqejiIugkCrFAI.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/plXL5rPvs3NuIlj7YFCjq9MumtD6VGm1t6zCV9IT.jpeg"]
         },
         {
-          "topic_title": "Account structure of google tag manager.",
-          "topic_details": ["This explains the full account structure of Google Tag Manager, where is Google Tag Manager, what are the tags, and the total items are given here."]
+          "topic_title": "Module-04 Wordpress Website Google Ads Google Ads Dynamic Remarketing tag via GTM",
+          "topic_details": ["Google Ads Remarketing tag Purchase.mp4","Google Ads Remarketing tag add to cart.mp4","Google Ads Remarketing tag View Item.mp4","Google Ads Remarketing tag view item list.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/8jzMG1CuyYx2GhP0cUN1tcl1NIakilSQF2pjCMsT.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/qDXxCbO5ZM86XUM6OExAHZZyft6X60gCjzcCvFCG.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/a5f73EkT2OXaEhCpumhAyK3V9mMLNszLUjvLs6TY.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/uEYEAESnXes2pbtlenkVEhdOQKgyeUylu4TGx3XV.jpeg"]
         },
         {
-          "topic_title": "Google tag manager account dashboard overview.",
-          "topic_details": ["This video explains the Google Tag Manager Dashboard Overview. Overview of Google Tag Manager Dashboard What's in Tag Trigger Video Ball Template Everything is fully shown in this video."]
+          "topic_title": "Module-05 Wordpress Website Google Analytics 4 with Google Tag Manager GTM",
+          "topic_details": ["Create Account & Install Google Analytics 4 with Tag Manager Wordpress.mp4","GA4 Ecommerce tracking View Item list, view item, Add to Cart event .mp4","GA4 Ecommerce tracking View Cart, Removed Cart, Checkout, Purchase event .mp4","Button Clicks Tracking with Tag Manager.mp4","Phone  Clicks & Email Click tracking with Tag Manager.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/1NjIO2sPUMk11yX4DwkHqnksTpdg8jZotUFuMynk.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/qv16ueRMR1WxHM0DGQ3kZE3jMvITeSONkEndmlrV.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/YaZCh7cA3GPbyoZpdje4KgF3xAFHhSWIp4RWmVN8.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/7EEDYQTqnLyb939hMZC4CQMjHTqeanZVU2BSSFFH.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/3dirzqSueeQxCkTHi7j9pxJAO2Cmdw3lJdwCpICl.jpeg"]
         },
         {
-          "topic_title": "How to access google tag manager?",
-          "topic_details": ["This video explains how to give access to Google Tech Manager, how to take access from the client, how to remove access, total issues are discussed in detail in this video."]
+          "topic_title": "Module-06 Wordpress Website Facebook Pixel Tracking via GTM",
+          "topic_details": ["Integrate Facebook base Pixel with Wordpress website.mp4","Facebook Standard View Content & Add To Cart Events tracking.mp4","Facebook Standard Initial Checkout & Purchase Events tracking.mp4","Facebook Custom Button Clicks events tracking.mp4","Facebook Custom Phone and Email no clicks & Lead events tracking.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/aWiqGPJXi13CwUC587ZJdSCHUko99EtsYpjmU3Rg.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/eYrH1cH43nr7Wnr1ObUApVSpyb6x90VbzaKiu70y.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/j8QpuUxYT0jZJYzDnuTKoV3Pxm54aMR2dXaY5d1W.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/bbRJuWssCcuivUSfUdQiKjsmUvcbClruXYFXxxlw.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/hxUu3x7V8D8BY2he3Xtt8pDNILFimVZGZALipNNT.jpeg"]
         },
         {
-          "topic_title": "Components of google tag manager (Tags, Triggers & Variables).",
-          "topic_details": ["This video explains Google Tag Manager What are tags, triggers, and variables, how do these things work, and why do we need to learn these things? Total is discussed in detail in this video."]
+          "topic_title": "Module-07 Shopify Website Google Ads Enhanced ConversionsTracking via GTM",
+          "topic_details": ["Google Ads Enhanced Conversion with purchase value tracking.mp4","Google Ads Enhanced Conversion with Checkout value tracking.mp4","Google Ads Enhanced Conversion with add to Cart value tracking.mp4","Google Ads Call Conversion Tracking for Website.mp4","Google Ads Call Conversion Tracking for Mobile site.mp4","Google Ads Conversion Lead Form Submit.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/snsZRpKXudYnXsRUpyBiBGqPoysLfRX9JQB0ZYNz.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/7JiqLmTsfv4cY9VEBADr6vMuNsY3pJ2WaHGiLANN.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/EjadI7Z5UomiOlBzDKLihYI4B41QXRYRlciweMcp.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/sNWlyJvIHUaeeIrgKGveLMBJ7QwexYIh5s3I1fSw.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/CxdI6wpJxT98i70vT0sqZpZWtWMNoGXzdLq0sebH.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/d56VWIrtq2DhknEFG6kNa9uGL9TatKXtFpqrYLvz.jpeg"]
         },
         {
-          "topic_title": "Introduction to GTM built-in and user defined variables.",
-          "topic_details": ["This lesson explains what are built-in variables and user-defined variables in Google Tag Manager."]
+          "topic_title": "Module-08 Shopify Website Google Ads Google Ads Dynamic  Remarketing tag via GTM",
+          "topic_details": ["Google Ads Remarketing tag Purchase.mp4","Google Ads Remarketing tag add to cart.mp4","Google Ads Remarketing tag view item.mp4","Google Ads Remarketing tag view item list.mp4","Google Ads Remarketing tag Search.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/V7KHeNIzFKLtLByfnDwOTkeGQV1PrrPKN6VPKLNB.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/r1B8pcS93nKiQBTenZ77EjmBmsAPy3OFzI60ezVL.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/s427rDaH3xnoLXzU3m0asa6hXe1YTwgVS23FgOji.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/NX5GdhMVq7ujQzbd5rTEzkxTO1OnpqKCkK1zqE7g.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/DyO2bVWzjXUvcvuAtdQPaWMeRxXPImEtvhkPzlkE.jpeg"]
         },
         {
-          "topic_title": "How to install google tag manager on a shopify website?",
-          "topic_details": ["In this video, it is explained how to install Google Tag Manager on the Shopify website, and the total processes are discussed."]
+          "topic_title": "Module-09 Shopify  Website Google Analytics 4 with Google Tag Manager GTM",
+          "topic_details": ["Create Account & Install Google Analytics 4 with Tag Manager Shopify.mp4","GA4 Ecommerce tracking View Item list, view item, Add to Cart,Search .mp4","GA4 Ecommerce tracking View Cart, Removed Cart, Checkout, Purchase .mp4","Button Clicks Tracking with Tag Manager.mp4","Form Submission tracking with Tag Manager.mp4","Phone and Email no clicks tracking with Tag Manager.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/BOOFvb06MhdaBLKhpvGlUC0uGTMOVJlugiHy6lzt.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/TS5IadqlynDxDAYRDO6WNX5v3AmsEtFLQBGsNuGb.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/xBS2IQHTc8LfV6IjGEsjjWaXNkwzpu9wtZiYp2yG.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/AGKCjuxkjaXBhZcYnXrKzN7vKT7uG6MyBOJ7XJcW.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/iXrXpsr9vNSrUwtbxIVrXnU9udILWeyj4ldcYbmy.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/iXrXpsr9vNSrUwtbxIVrXnU9udILWeyj4ldcYbmy.jpeg"]
         },
         {
-          "topic_title": "How to install google tag manager on a wordpress website?",
-          "topic_details": ["This video shows how to install Google Tag Manager on a WordPress website with total steps shown step by step."]
-        },
-        {
-          "topic_title": "Introduction to Data Layer in GTM for dynamic parameters",
-          "topic_details": ["This video explains what the data layer of Google Tag Manager is and how it works on the website."]
-        },
-        {
-          "topic_title": "Install data layer Wordpress Ecommerce website.",
-          "topic_details": ["This video shows how to install the data layer of a WordPress Ecommerce website, the total process is shown step by step."]
-        },
-        {
-          "topic_title": "Install data layer Shopify Ecommerce Website.",
-          "topic_details": ["This video shows how to properly install Data Layer and Google Tag Manager on a Shopify website."]
-        },
-        {
-          "topic_title": "Make Wordpress Ecommerce Website for practice.",
-          "topic_details": ["This video shows you how to create a WordPress Woocommerce website for free to practice the Google Tag Manager course."]
-        },
-        {
-          "topic_title": "Make Shopify Ecommerce Website For practice.",
-          "topic_details": ["This video shows you how to create a Shopify website for free to practice the Google Tag Manager course."]
-        },
-        {
-          "topic_title": "Google Ads conversion with purchase value (dynamic) tracking.",
-          "topic_details": ["The video explains how to set up Google Ads conversion tracking with a dynamic value data layer with the total process explained step by step."]
-        },
-        {
-          "topic_title": "Google Ads Enhanced conversion with purchase value tracking.",
-          "topic_details": ["This video explains how to do Google ads enhanced conversion Purchase Tracking through Google Tag Manager, the total topic is explained step by step."]
-        },
-        {
-          "topic_title": "Google Ads Enhanced conversion with Checkout value tracking.",
-          "topic_details": ["This video explains how to do Google Ads Enhanced Conversion with Checkout value tracking-through Google Tag manager, the total topic is explained step by step."]
-        },
-        {
-          "topic_title": "Google ads enhanced conversion with add to cart value tracking.",
-          "topic_details": ["This video explains how to do Google Ads Enhanced Conversion with add-to-cart value tracking through Google Tag Manager, the total topic is explained step by step."]
-        },
-        {
-          "topic_title": "Google ads call conversion tracking for website.",
-          "topic_details": ["This video explains how to do Google Ads Call Conversion Tracking for Website through Google Tag Manager, the total topic is explained step by step."]
+          "topic_title": "Module-10 Shopify Website Facebook Pixel Tracking via GTM",
+          "topic_details": ["Integrate Facebook base Pixel Pageview Event with website.mp4","Facebook Standard View Content & Add To Cart Events tracking.mp4","Facebook Standard Initial Checkout & Purchase Events tracking.mp4","Facebook Custom Button Clicks events tracking.mp4","Facebook Custom Phone and Email no clicks & Lead events tracking.mp4"],
+          "topic_thumbnail": ["https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/tXgPOlgKyJ7czy0G4MSFDIBsi13xj6C54Vg0Wz3i.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/ZzTBx2zwgvO6OxOVHWjmWX8f3EzrCceJ243WmtKL.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/57A6JORkrnwHaPCWDWT6rZXPvlgrpcFPIfjWEgOM.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/34nFrfmAg4Rckdvf4jYTQBKYj7dqYsuOAQwRAxlA.jpeg","https://instructory-s3-storage-live.s3.brilliant.com.bd/lesson_thumbnails/xKDZ1RFhC0jodVAhtYZd02kZ8PPg2nIqQsw92Voc.jpeg"]
         }
       ]
     },

@@ -17,10 +17,12 @@ app.get('/', (req, res) =>
   res.send("Hello")
 })
 
+// show all categories
 app.get("/course-categories", (req, res) => {
   res.send(coursesCategory);
 });
 
+// for selected course
 app.get('/course/:id', (req, res) =>
 {
   const id = req.params.id;
@@ -28,6 +30,7 @@ app.get('/course/:id', (req, res) =>
   res.send(selectedCourse);
 })
 
+// for categories
 app.get('/category/:id', (req, res) =>
 {
   const id = req.params.id;

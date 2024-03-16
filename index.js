@@ -4,8 +4,9 @@ const path = require('path')
 const app = express()
 const port = process.env.PORT || 3000;
 
-const courses = require("./data/courses.json")
+const courses = require("./data/courses.json");
 const coursesCategory = require("./data/categories.json");
+const blog = require("./data/blog.json");
 
 app.use(cors());
 
@@ -42,6 +43,11 @@ app.get('/category/:id', (req, res) =>
     const selectedCategory = courses.filter(categories => categories.category_id === id);
     res.send(selectedCategory);
   }
+})
+
+app.get("/blog", (req, res) =>
+{
+  res.send(blog)
 })
 
 
